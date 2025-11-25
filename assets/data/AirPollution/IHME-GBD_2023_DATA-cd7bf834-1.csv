@@ -1,0 +1,1225 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,148,Morocco,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7340.195618301648,10431.26329659777,4659.016335869653
+1,Deaths,148,Morocco,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026249700027249023,0.036946947916533336,0.016484336753295192
+1,Deaths,148,Morocco,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,19.88960071468677,28.26541317261264,12.624455731479701
+1,Deaths,27,Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,108.16223163015326,151.46213969594834,76.71518290689038
+1,Deaths,27,Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07765365509057275,0.1086288275090047,0.05636379924932047
+1,Deaths,27,Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,49.341005695461575,69.09338116227616,34.99561926274108
+1,Deaths,45,Bulgaria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2123.787203590088,2402.157298339501,1914.9281524465391
+1,Deaths,45,Bulgaria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020843800927798143,0.023471369262358672,0.0187964497478173
+1,Deaths,45,Bulgaria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,30.661091194700724,34.67991701988757,27.645795498820334
+1,Deaths,131,Nicaragua,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1436.8201347570089,1765.9221117791221,1184.379583753174
+1,Deaths,131,Nicaragua,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04879039418928596,0.06121218035923332,0.041318547014077445
+1,Deaths,131,Nicaragua,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,21.0956559735467,25.927591383921996,17.389277639246654
+1,Deaths,149,Palestine,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,485.6884700967873,675.0468864208423,376.9939367704513
+1,Deaths,149,Palestine,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01274822992712144,0.0181265172417807,0.009822357950750085
+1,Deaths,149,Palestine,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,8.980637372253902,12.481974906685664,6.970817810435465
+1,Deaths,349,Greenland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,43.590887680753234,54.40013305972619,33.55813862054861
+1,Deaths,349,Greenland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.08426127331501061,0.10434258412229648,0.06563303738893268
+1,Deaths,349,Greenland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,77.00262788610905,96.09699241803867,59.27993207372832
+1,Deaths,46,Croatia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1776.184751022732,1934.6282686632783,1597.7779085656607
+1,Deaths,46,Croatia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03421619611199551,0.03708657499841811,0.03086508384943244
+1,Deaths,46,Croatia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,45.67663457088619,49.75119193392282,41.08869734016454
+1,Deaths,150,Oman,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,358.9036397692576,482.7857822905766,266.6105970085878
+1,Deaths,150,Oman,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029220745760658945,0.03902680580650715,0.02166646171162133
+1,Deaths,150,Oman,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,6.990440236320572,9.403318284031046,5.192829601718411
+1,Deaths,351,Guam,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,41.74619218918777,47.987907112854074,36.76784517307887
+1,Deaths,351,Guam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03487394332373096,0.03967766579921755,0.030827883713439024
+1,Deaths,351,Guam,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,26.487806535902948,30.448151867546173,23.32906352926686
+1,Deaths,47,Czechia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4256.359724940373,4578.450187632025,3862.162527979526
+1,Deaths,47,Czechia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0376940605026662,0.04040158637586877,0.034002276061946037
+1,Deaths,47,Czechia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,39.07595137846436,42.03293623711192,35.45698317619738
+1,Deaths,151,Qatar,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,67.7633309236438,99.95559517680547,46.29484627991279
+1,Deaths,151,Qatar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02107957631770864,0.03156259414944691,0.014581950650587625
+1,Deaths,151,Qatar,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2.1839451711963953,3.2214700258230384,1.4920371328590853
+1,Deaths,11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,104821.83024301994,143155.00932678286,79884.13178526257
+1,Deaths,11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.055859973139368774,0.07546054581711878,0.04334408722148463
+1,Deaths,11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,36.46394020511103,49.79874600597828,27.788965313825862
+1,Deaths,168,Angola,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6675.295227580378,8810.899167941532,4864.181338306001
+1,Deaths,168,Angola,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027277713607454547,0.03575912206353073,0.019861632873581565
+1,Deaths,168,Angola,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,18.502290212153827,24.421663443696097,13.482324256466251
+1,Deaths,48,Hungary,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5490.100804117618,5839.994447268227,5162.633215936683
+1,Deaths,48,Hungary,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04305840674376875,0.045849304509454535,0.040417382295671496
+1,Deaths,48,Hungary,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,57.031653135526724,60.66637927307326,53.62989084215404
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,364.50551102089537,506.25778549259775,242.7726635242475
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.051734697295076744,0.07192697725774273,0.03452863131262243
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,42.39603552463457,58.88339794439101,28.23715459982199
+1,Deaths,182,Malawi,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2328.008437407758,3483.279831145455,1607.396608163086
+1,Deaths,182,Malawi,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014949934574019198,0.02212073730653464,0.010041065844506154
+1,Deaths,182,Malawi,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.230146036317931,16.803092532036526,7.753966161760875
+1,Deaths,97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,17971.566893480933,21526.620906270222,15121.082796163804
+1,Deaths,97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.048145021647891424,0.05748062411658375,0.04092100082827887
+1,Deaths,97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,37.84924300300458,45.33640892550842,31.84594535427859
+1,Deaths,79,Finland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2296.988471711954,2548.572104970199,1991.119243320921
+1,Deaths,79,Finland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037515587426698416,0.04170212565105126,0.03276075908277817
+1,Deaths,79,Finland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,41.36558368879479,45.89625676984808,35.857302162502954
+1,Deaths,152,Saudi Arabia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2624.3208246651893,4026.500743827546,1977.0982007386567
+1,Deaths,152,Saudi Arabia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026581380133487376,0.04015259798114107,0.02030355020150244
+1,Deaths,152,Saudi Arabia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,7.9553297412933555,12.20587849612395,5.993348057892447
+1,Deaths,169,Central African Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1735.0616173843657,2546.6781468417835,1154.91411812489
+1,Deaths,169,Central African Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.022418314412208675,0.03249352520434391,0.014965413122974391
+1,Deaths,169,Central African Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,26.429563696131552,38.79262362853058,17.592387464923956
+1,Deaths,114,Haiti,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2414.3766180962252,3372.1078551040905,1587.8349382515569
+1,Deaths,114,Haiti,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019127860221015345,0.026565233435133815,0.012856497845807929
+1,Deaths,114,Haiti,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,17.895204069377666,24.993846344743766,11.768930346461318
+1,Deaths,98,Chile,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7515.119957898615,8856.033457832165,6391.279641416141
+1,Deaths,98,Chile,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.061901773106428144,0.07308677205430779,0.052543690231990695
+1,Deaths,98,Chile,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,39.23786444895651,46.23902776277282,33.37008133339037
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2807.6113488060632,4003.1126464319213,2020.4286191901742
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04656800231949938,0.06614109812600648,0.03335554421037653
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,37.32645453086665,53.22032988736851,26.861067155585527
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,118.57947772036157,163.4656990748546,92.6865111820588
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0586351330895355,0.0797534794696826,0.04610936490212814
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,25.784390299235532,35.544627675145286,20.15412131792763
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2996.6656649701094,4349.48521370147,1991.5747479709114
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019007280299027558,0.027602983455655858,0.012672343304023587
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.347011959331185,17.920966819313772,8.205786023628399
+1,Deaths,218,Togo,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1244.35716310635,1741.3191319120535,864.4253296923853
+1,Deaths,218,Togo,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019819451660744055,0.02752306899686968,0.013782799210818403
+1,Deaths,218,Togo,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.545664728675213,20.354802487086058,10.10452738287114
+1,Deaths,170,Congo,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1239.0503202211266,1666.4335702861108,906.3137783603058
+1,Deaths,170,Congo,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.028749953715997294,0.03875679703974777,0.021139041672871603
+1,Deaths,170,Congo,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.256653834954033,27.243742583600582,14.816899826003462
+1,Deaths,29,Tonga,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,39.92762794700996,55.002459139536526,29.22556677680626
+1,Deaths,29,Tonga,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.053952736949825865,0.07421536167694753,0.040093700025308945
+1,Deaths,29,Tonga,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,38.24471439524837,52.68415503219049,27.993735463113534
+1,Deaths,67,Japan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,76509.84788770363,91524.01514410021,61339.434638003026
+1,Deaths,67,Japan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04730297407212623,0.05645860062320003,0.03795147554246463
+1,Deaths,67,Japan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,61.36856734982376,73.41143450893846,49.20037524198742
+1,Deaths,85,Israel,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2205.8337003066913,2525.5071145041666,1869.8972215932822
+1,Deaths,85,Israel,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.043419741633430035,0.049664235111991764,0.03693465926797094
+1,Deaths,85,Israel,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,22.08105411421331,25.281080461071824,18.718229634572044
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,24880.588475810575,33644.04144762739,18291.178101823753
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03188609236616761,0.043315167767340346,0.023456089074860662
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,26.3984153108647,35.696477988609104,19.407021523079408
+1,Deaths,202,Cameroon,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4896.353337567305,6795.727915623264,3412.5394213405993
+1,Deaths,202,Cameroon,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.018664579456780163,0.02593537051313658,0.013075534684982187
+1,Deaths,202,Cameroon,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.451946763624775,20.058090437047866,10.072360927793707
+1,Deaths,22,Fiji,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,442.42984454338233,567.4344049923666,351.18161380221295
+1,Deaths,22,Fiji,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05271908272889711,0.06771589961038198,0.04193364076771768
+1,Deaths,22,Fiji,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,47.155861805825126,60.47932506295222,37.430277033628066
+1,Deaths,39,Tajikistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1846.3795655429587,2446.197970404204,1386.7474620247206
+1,Deaths,39,Tajikistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03672027378774049,0.04751792609975498,0.028242670282638615
+1,Deaths,39,Tajikistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,17.278040875827752,22.891018353846327,12.976898022735412
+1,Deaths,183,Mauritius,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,439.4298840522004,499.29906723796154,389.7071225998888
+1,Deaths,183,Mauritius,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.034168569555707407,0.03826672068844996,0.030416320269803038
+1,Deaths,183,Mauritius,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,34.47877769378931,39.176264898654544,30.577404344697968
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,18082.485644047378,29008.491196883708,12991.680358753143
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05119099802690721,0.08087300294348448,0.03700393804657029
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,34.97661772327359,56.11058829494242,25.129567164382493
+1,Deaths,190,Uganda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4658.084891085713,6937.313004624329,3234.100086588576
+1,Deaths,190,Uganda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01608989461211034,0.023883630167321365,0.011231737299297745
+1,Deaths,190,Uganda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,10.214683616998235,15.212787905591007,7.0920367366918
+1,Deaths,99,Uruguay,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2101.7000863550325,2350.2002135369544,1828.583823774278
+1,Deaths,99,Uruguay,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06039694240818856,0.06711568663140222,0.052729567010997964
+1,Deaths,99,Uruguay,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,61.77034435354661,69.0739261193678,53.74327821899394
+1,Deaths,86,Italy,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,32696.119735518616,38764.19551793131,26640.97828255383
+1,Deaths,86,Italy,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04862696154488192,0.05761376723793762,0.03961642982707939
+1,Deaths,86,Italy,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,55.51682640582431,65.82019917772027,45.23541565659174
+1,Deaths,172,Equatorial Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,252.7308863849736,361.04473182520456,183.60518016512748
+1,Deaths,172,Equatorial Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02175241049002046,0.030376888708474947,0.01582688650916291
+1,Deaths,172,Equatorial Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,15.539466767479484,22.19927564858522,11.289188418257035
+1,Deaths,191,Zambia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2491.4274890448505,3407.207932850132,1771.9703243805234
+1,Deaths,191,Zambia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01693241354419566,0.023089698619419806,0.012152526493488466
+1,Deaths,191,Zambia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.892301640386535,16.2635857022296,8.458125186467107
+1,Deaths,69,Singapore,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,725.1451869649891,879.3510220941597,522.0057164532672
+1,Deaths,69,Singapore,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026918082802506873,0.03252379757866177,0.019326134752649906
+1,Deaths,69,Singapore,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.73992233382659,15.449132018015463,9.17100796498731
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,521.0463110551325,589.7178149556565,459.66844935200555
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014396955287048527,0.016030627037513765,0.01288567603348227
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,9.289303402554594,10.513590805242265,8.195048309555666
+1,Deaths,87,Luxembourg,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,247.12030874868472,274.50780912773325,220.48001197817564
+1,Deaths,87,Luxembourg,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05766226970597507,0.06415887427868355,0.05188742394380532
+1,Deaths,87,Luxembourg,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,37.50764089585008,41.66448472003366,33.46420679006275
+1,Deaths,115,Jamaica,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,550.2606457213412,633.5927651422783,449.52306750154145
+1,Deaths,115,Jamaica,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027175182530036802,0.030607912829263926,0.02241952343185864
+1,Deaths,115,Jamaica,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,19.332137874521507,22.259819573273173,15.792955549865875
+1,Deaths,173,Gabon,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,537.4053550606209,730.838920134407,375.50843031049993
+1,Deaths,173,Gabon,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03766003307148664,0.05071840517589482,0.026972989713230255
+1,Deaths,173,Gabon,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,28.080289755895894,38.187503062646705,19.6209163708669
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,52.53130180693784,61.85991987273598,44.013233295261955
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03970589166447863,0.04570680624152952,0.03465738752913794
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,29.370841123553532,34.586576307879064,24.60829330291425
+1,Deaths,522,Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6563.772168155902,9167.454341003677,4300.386723847952
+1,Deaths,522,Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027121944215384743,0.038178291818288634,0.018134193338936924
+1,Deaths,522,Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,17.506438873293153,24.450799773810022,11.469693856500328
+1,Deaths,132,Panama,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,890.203609198049,1077.1842850078717,750.6786745368049
+1,Deaths,132,Panama,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03936001277364098,0.04718426500754048,0.03339678017251286
+1,Deaths,132,Panama,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,21.19157343632012,25.642706504816946,17.87013902679765
+1,Deaths,6,China,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1046555.4252856303,1502363.7423552799,814244.5597699162
+1,Deaths,6,China,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.09815004642292699,0.13905442599374246,0.07866881279102418
+1,Deaths,6,China,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,73.15269435076938,105.01302940376902,56.91450444812226
+1,Deaths,106,Bahamas,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,56.21016823374063,63.48129825676584,50.46364247308901
+1,Deaths,106,Bahamas,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01793095135533757,0.01998114590578597,0.016039345912565728
+1,Deaths,106,Bahamas,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,13.615058295330073,15.376249593045998,12.22315206758951
+1,Deaths,127,El Salvador,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1835.1159186832974,2563.7102905738107,1484.9226847201805
+1,Deaths,127,El Salvador,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03897155343221516,0.054591110250799164,0.031887805052747395
+1,Deaths,127,El Salvador,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,29.6609768064656,41.43724692975665,24.00080390697164
+1,Deaths,88,Malta,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,167.3660923777809,190.35430303894967,145.68104690939302
+1,Deaths,88,Malta,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.041024129777657715,0.04602209020869869,0.03588867823480829
+1,Deaths,88,Malta,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,30.058447781082602,34.18706140838507,26.163878710481114
+1,Deaths,30,Vanuatu,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,137.00237691845464,186.30827457406986,98.71232728783308
+1,Deaths,30,Vanuatu,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07174359660544227,0.09671752532730057,0.05116362986988659
+1,Deaths,30,Vanuatu,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,41.514630069557846,56.45536429228373,29.911931769612217
+1,Deaths,193,Botswana,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,790.4360755747608,1103.2870212742816,569.4515878162048
+1,Deaths,193,Botswana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.046284529714461106,0.06499552506202967,0.03366008402902528
+1,Deaths,193,Botswana,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,32.32968019053444,45.12561819781376,23.291178486132598
+1,Deaths,128,Guatemala,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2332.6482070498428,2691.8685284395747,2032.2654054732159
+1,Deaths,128,Guatemala,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026350393545067807,0.02983557289994983,0.023311986936616354
+1,Deaths,128,Guatemala,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.160738835357874,16.3414470708216,12.337213800205044
+1,Deaths,107,Barbados,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,62.043078437052465,69.3883531092429,55.54267163242927
+1,Deaths,107,Barbados,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0190455073292112,0.02113813884896691,0.01722691887061132
+1,Deaths,107,Barbados,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.612599691169038,23.05292357988704,18.45296663186826
+1,Deaths,89,Netherlands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,11140.293604161332,12413.010157789173,9899.955917739018
+1,Deaths,89,Netherlands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06560957772999026,0.07309659372230376,0.05823496084893432
+1,Deaths,89,Netherlands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,62.64230430121697,69.79883899180818,55.667837240482555
+1,Deaths,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5492.937879256618,5977.366110469755,5021.874520427354
+1,Deaths,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02523874616944836,0.027154789666853543,0.02326273369317625
+1,Deaths,133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,21.411200773609288,23.299478112058388,19.575019048148175
+1,Deaths,129,Honduras,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3342.4607429562725,5524.7571553242105,2268.35414579764
+1,Deaths,129,Honduras,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0703860786438719,0.11745290786169689,0.04730665086153906
+1,Deaths,129,Honduras,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,31.191731711285946,51.55684874445645,21.168204919386483
+1,Deaths,13,Malaysia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7087.403502428812,8548.787786610408,5902.792947001359
+1,Deaths,13,Malaysia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037010980524414275,0.044462284227808735,0.030937662974156777
+1,Deaths,13,Malaysia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.74478460418343,25.02224703296951,17.277437104670664
+1,Deaths,194,Lesotho,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,936.8461153100246,1396.817384784952,617.759495694824
+1,Deaths,194,Lesotho,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04121164824930603,0.06063682203191222,0.027378322821751674
+1,Deaths,194,Lesotho,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,48.81885629399932,72.78786351610214,32.19131888549168
+1,Deaths,125,Colombia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,19511.954405943306,21650.74155073106,16940.242673534438
+1,Deaths,125,Colombia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07296713159898652,0.08060919888319991,0.06348287441057135
+1,Deaths,125,Colombia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,37.439010184997585,41.54285708989093,32.504479294888185
+1,Deaths,130,Mexico,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,33295.32718294595,36937.44686695878,30502.54847776601
+1,Deaths,130,Mexico,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04179549575667437,0.04632744398102582,0.038297146197640165
+1,Deaths,130,Mexico,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,25.239760082683702,28.00069486827093,23.12267427975834
+1,Deaths,14,Maldives,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,173.036596480158,214.05271997641645,135.79890189992688
+1,Deaths,14,Maldives,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.09008297469294314,0.11039537743210653,0.07140214108780588
+1,Deaths,14,Maldives,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,31.889383717757223,39.44835637090395,25.02674797832964
+1,Deaths,108,Belize,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,83.91645165778512,95.99760240783296,73.56038472636595
+1,Deaths,108,Belize,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.041488982513905225,0.04637232331445728,0.036920396257666306
+1,Deaths,108,Belize,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.287707061411705,23.208455526578575,17.78401621101917
+1,Deaths,90,Norway,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3511.89515740388,3935.0462818922956,3074.154914762374
+1,Deaths,90,Norway,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.08073999805346686,0.08962875638519273,0.07070253181564724
+1,Deaths,90,Norway,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,64.19131828004792,71.92578280565627,56.19019011990142
+1,Deaths,211,Mali,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3451.433118462061,4862.79429848144,2289.8354177282254
+1,Deaths,211,Mali,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01741521935053385,0.024656384291925067,0.01152934838811663
+1,Deaths,211,Mali,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.245475397057824,20.07073993971464,9.451086834646306
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,16.973679461537312,21.524722619075956,13.779951061364077
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01623660046715684,0.019795860118543996,0.013362118836932413
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.620958234210866,18.54118142914312,11.869912436736104
+1,Deaths,367,Monaco,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,26.662749247562694,37.73831114789655,19.110181233731282
+1,Deaths,367,Monaco,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.049209053891415624,0.06927081160556016,0.03527490565776545
+1,Deaths,367,Monaco,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,68.55043099374709,97.02590944933867,49.13263624007749
+1,Deaths,142,Iran (Islamic Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,19012.743072775058,25207.500076180604,13447.632187528972
+1,Deaths,142,Iran (Islamic Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05204335516607715,0.06806669251323266,0.037380886052793785
+1,Deaths,142,Iran (Islamic Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,21.623741924762268,28.66921801495718,15.29438055356892
+1,Deaths,41,Uzbekistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3175.651929281042,3549.3304384126122,2871.4016764448274
+1,Deaths,41,Uzbekistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.015482701132238532,0.01719764977184074,0.013828966506290858
+1,Deaths,41,Uzbekistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,8.985099888794434,10.042375309908708,8.124262815399167
+1,Deaths,203,Cabo Verde,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,92.19642146946087,129.64681039779134,69.30511010599157
+1,Deaths,203,Cabo Verde,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.032325434116641856,0.045587083135618045,0.024444399562018226
+1,Deaths,203,Cabo Verde,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,18.636998256310694,26.207387887828492,14.009645880091206
+1,Deaths,15,Myanmar,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,52874.93335487593,67021.80371444291,39046.123421857454
+1,Deaths,15,Myanmar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0930266464327083,0.11838580992506251,0.06768961660118201
+1,Deaths,15,Myanmar,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,91.93780498167888,116.53608105873093,67.89256558217974
+1,Deaths,126,Costa Rica,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1544.785472677392,1795.295473632462,1352.6366447599355
+1,Deaths,126,Costa Rica,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.052951102179483366,0.062196608250239135,0.04620560119000601
+1,Deaths,126,Costa Rica,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,29.666767259664386,34.47767597546923,25.976653222558248
+1,Deaths,109,Cuba,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7048.385454249691,8500.808819057263,6175.96392337401
+1,Deaths,109,Cuba,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0609943613076898,0.07052856928703012,0.05515029156382136
+1,Deaths,109,Cuba,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,62.292015178637534,75.12819998630174,54.58175364481182
+1,Deaths,23,Kiribati,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,46.543217843596324,63.175524189519514,34.23683475934166
+1,Deaths,23,Kiribati,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06746089999971584,0.09132979855239971,0.04933572988728101
+1,Deaths,23,Kiribati,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,36.40905896652757,49.41990459677624,26.782225065936984
+1,Deaths,212,Mauritania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,667.5761807764342,977.4109026666606,477.79688607011565
+1,Deaths,212,Mauritania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.023788844132830063,0.03440300240060089,0.017041764775651825
+1,Deaths,212,Mauritania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.517949403463419,21.256004093501666,10.39077069680732
+1,Deaths,369,Nauru,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3.002486180628819,4.289132320323612,2.050163097869393
+1,Deaths,369,Nauru,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026265477546593575,0.03744498378288317,0.017865254143531475
+1,Deaths,369,Nauru,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,24.348464138472135,34.782436355690216,16.625662755269484
+1,Deaths,59,Latvia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,327.8708499687373,372.14792174292813,294.0756911281947
+1,Deaths,59,Latvia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.011761007027435775,0.01333508492820096,0.010593065873089448
+1,Deaths,59,Latvia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,17.310058373604274,19.64768215777598,15.52583091840111
+1,Deaths,24,Marshall Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,13.645813832153548,19.01585708593787,9.509030695322204
+1,Deaths,24,Marshall Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037593519039343805,0.051691960470323935,0.026543886395818905
+1,Deaths,24,Marshall Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,32.7416036821179,45.62642170278769,22.815855342663614
+1,Deaths,110,Dominica,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,20.78749318814556,26.550449630861365,15.361284626263675
+1,Deaths,110,Dominica,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.031884598171992684,0.040367636194560026,0.023600432182689153
+1,Deaths,110,Dominica,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,30.055014096192163,38.38722306212651,22.209682610564048
+1,Deaths,118,Suriname,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,154.5940211600463,201.48999230864973,121.16289693159989
+1,Deaths,118,Suriname,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03431136111894345,0.044799222839787135,0.0267469199782252
+1,Deaths,118,Suriname,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,26.033192534848126,33.9303404119731,20.40348650116808
+1,Deaths,298,American Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,19.832231121691574,27.078995263413894,14.985049014745721
+1,Deaths,298,American Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05131927423297059,0.06751508588233096,0.039247186689185934
+1,Deaths,298,American Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,40.487644482145214,55.28196633205041,30.592086857688667
+1,Deaths,213,Niger,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3912.6646794679627,5866.281659321552,2255.268296391449
+1,Deaths,213,Niger,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014352996811307177,0.02133264137802702,0.008397796810946457
+1,Deaths,213,Niger,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.687201033373821,22.02060874293097,8.465734113918446
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4158.134380772877,5535.767317800773,3236.920852943023
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.044295020316289506,0.05755128589631107,0.034682053402639856
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,23.38459646708626,31.132155194655898,18.203858031134615
+1,Deaths,135,Brazil,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,73935.0566073454,78799.98188671855,66126.36773174218
+1,Deaths,135,Brazil,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05029037388725087,0.05366256880483953,0.04504076401311551
+1,Deaths,135,Brazil,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,34.86260602644696,37.156564821442174,31.18057403316642
+1,Deaths,204,Chad,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2676.312436125693,3752.8396249620373,1957.2952351711162
+1,Deaths,204,Chad,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013461211044717347,0.01904512613566492,0.009742007582355829
+1,Deaths,204,Chad,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,13.876000622803664,19.457520829907242,10.148078952082967
+1,Deaths,305,Bermuda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,17.3893535400309,19.516077985583475,15.105077010443914
+1,Deaths,305,Bermuda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027946650142188598,0.031071881117963805,0.02448689390093359
+1,Deaths,305,Bermuda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,27.593719191490624,30.96844137499004,23.96899070644172
+1,Deaths,25,Micronesia (Federated States of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,48.347866044938804,61.06516180761171,38.06231874375044
+1,Deaths,25,Micronesia (Federated States of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.056368960378162546,0.07134025105774677,0.04453043210595017
+1,Deaths,25,Micronesia (Federated States of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,46.738658122301665,59.032672057462456,36.79545445610118
+1,Deaths,320,Cook Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4.855956519152857,6.5997592672712395,3.6323903145051157
+1,Deaths,320,Cook Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.032855469857804624,0.04441580531219848,0.0244022377763035
+1,Deaths,320,Cook Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,33.006699396058444,44.859600649631716,24.689927664537763
+1,Deaths,33,Armenia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,483.120524300666,535.2806313074105,428.457264366275
+1,Deaths,33,Armenia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019597456921965222,0.02140546970524621,0.017290967119260252
+1,Deaths,33,Armenia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,15.935816104277272,17.656326476802054,14.132738788868835
+1,Deaths,26,Papua New Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5018.220662280476,6647.046100140816,3687.2227808619377
+1,Deaths,26,Papua New Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07080222571584163,0.09129009788030698,0.053111042829666714
+1,Deaths,26,Papua New Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,45.182107966261356,59.84741898870552,33.19832047896726
+1,Deaths,214,Nigeria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,28662.164333317112,40451.85257480756,20491.690034944648
+1,Deaths,214,Nigeria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01608160253311606,0.02260534847075053,0.01158672708679272
+1,Deaths,214,Nigeria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.706803265800113,16.522195404481376,8.369646514935413
+1,Deaths,49,North Macedonia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,793.9979160567287,997.6218142071416,671.517216554758
+1,Deaths,49,North Macedonia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037770184330034796,0.047322305000524596,0.03228172393073526
+1,Deaths,49,North Macedonia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,42.86962510496218,53.86370959761659,36.25663335264143
+1,Deaths,60,Lithuania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,573.6075956575197,627.9424315804738,520.1971526821502
+1,Deaths,60,Lithuania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014833494358381192,0.01636151980088939,0.013460934537636983
+1,Deaths,60,Lithuania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.204008494439215,22.11782814195096,18.32274846278089
+1,Deaths,205,Côte d'Ivoire,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3752.9948937083936,5012.43382426308,2760.8854884962852
+1,Deaths,205,Côte d'Ivoire,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01583312529356469,0.02129142118197009,0.011718701576969779
+1,Deaths,205,Côte d'Ivoire,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.09170125211958,14.81388067379159,8.15959464294768
+1,Deaths,143,Iraq,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,8151.829733184899,11333.332087566881,5805.651676321787
+1,Deaths,143,Iraq,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03644043814166003,0.05055040486138034,0.025750994577821006
+1,Deaths,143,Iraq,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,18.452455637243062,25.65409416203122,13.141654513036398
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,342.54836392366514,386.3858897684131,305.35506020714996
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.024722482749695924,0.02761401393488192,0.022456642234008298
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,24.69569633148526,27.85612078596255,22.01428070997483
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,104.47242616032617,135.77627339386189,77.83306762130987
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.08611143150061971,0.111689936244172,0.0636822767749639
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,47.05953747285594,61.160335416137215,35.05985547546632
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,721.6900631236791,794.4271163596491,642.2147120922506
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01885085169987508,0.020450253015231328,0.01719807539833271
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,19.99875641663603,22.01437320902181,17.796414625306962
+1,Deaths,374,Niue,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1.1045574370856528,1.5531048124382503,0.749989434434174
+1,Deaths,374,Niue,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05851762343499462,0.08258456074843012,0.03972458550928484
+1,Deaths,374,Niue,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,65.71863116274906,92.40617001776171,44.62264918299238
+1,Deaths,136,Paraguay,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1704.8865503337822,2367.1194441377334,1359.884145879195
+1,Deaths,136,Paraguay,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03975126507350291,0.05498399491475032,0.032375755061457075
+1,Deaths,136,Paraguay,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,26.96954065968837,37.445379625121056,21.511959700529186
+1,Deaths,16,Philippines,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,32185.669666126465,43085.81840862529,26157.263471482165
+1,Deaths,16,Philippines,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.048616078368210504,0.06541838289588478,0.03924728225276052
+1,Deaths,16,Philippines,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,28.10693754804582,37.62576388125276,22.84248171460247
+1,Deaths,144,Jordan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1055.852983911286,1360.3622977583893,851.7794473387315
+1,Deaths,144,Jordan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02579863337306936,0.03328109607046085,0.021018867095522087
+1,Deaths,144,Jordan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,7.998820052258244,10.305689704391803,6.452821204554123
+1,Deaths,50,Montenegro,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,135.74467085909626,167.2569517943798,105.53182170119699
+1,Deaths,50,Montenegro,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01942739399065222,0.02398110989635941,0.01531051391308983
+1,Deaths,50,Montenegro,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.75432622302932,25.572313952665446,16.13501171453493
+1,Deaths,80,France,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,21841.682122392358,24493.08690632338,18884.122229700828
+1,Deaths,80,France,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03445951980743395,0.038600867697666644,0.02972467319264473
+1,Deaths,80,France,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,31.25896437473013,35.053551587356885,27.026219900027137
+1,Deaths,34,Azerbaijan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1801.896597114299,2502.715850261388,1364.5671539114066
+1,Deaths,34,Azerbaijan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.025893974561479488,0.036207121293100206,0.01935804886361957
+1,Deaths,34,Azerbaijan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,17.12475834981701,23.785162934776576,12.96849264283732
+1,Deaths,154,Tunisia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3694.637672077562,4700.466308626611,2969.876589502779
+1,Deaths,154,Tunisia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04758348694153753,0.06155954292063043,0.03816661704824996
+1,Deaths,154,Tunisia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,30.848250215171362,39.24638183396201,24.79688247471487
+1,Deaths,17,Sri Lanka,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,17195.04065661878,21802.975746836775,14425.789954512113
+1,Deaths,17,Sri Lanka,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.09473216892138484,0.1213524070194796,0.07966193568756248
+1,Deaths,17,Sri Lanka,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,75.89926540536484,96.23878628044498,63.675735481213
+1,Deaths,145,Kuwait,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,124.98074099322338,139.7640148029207,109.62905416771366
+1,Deaths,145,Kuwait,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013655279105439259,0.015239916282804165,0.012048863636342685
+1,Deaths,145,Kuwait,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2.6706857626216958,2.986586265169025,2.3426389682812867
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1168.2676363623993,1769.1519752625672,902.9345157881993
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03093345603800226,0.04682817123358896,0.02431239201448404
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,36.60024984576273,55.42514599766639,28.287720932773865
+1,Deaths,43,Albania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1097.0835767775307,1808.213485664804,798.3980576352689
+1,Deaths,43,Albania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05222026724421008,0.08592487307460024,0.03837873541643148
+1,Deaths,43,Albania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,45.240250469905554,74.56499461492271,32.92340608014599
+1,Deaths,81,Germany,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,49952.41941344885,54331.87081971833,43716.893792987394
+1,Deaths,81,Germany,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04884544763503819,0.05294419645610871,0.04340942542548988
+1,Deaths,81,Germany,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,59.154297389187875,64.3405000582464,51.77010776910774
+1,Deaths,71,Australia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,12366.201603381605,13639.667501960857,10642.816417872597
+1,Deaths,71,Australia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0678793925618222,0.07471243631246996,0.058356386447868676
+1,Deaths,71,Australia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,45.885856888680884,50.61116186501606,39.491087619779876
+1,Deaths,62,Russian Federation,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,35861.616776005154,39098.58044042621,32124.00425766284
+1,Deaths,62,Russian Federation,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0199658404210035,0.021845266627509657,0.017910501162915638
+1,Deaths,62,Russian Federation,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,24.126893508353476,26.304650247814,21.61231141996667
+1,Deaths,35,Georgia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1030.2873521928104,1184.4093059521297,894.3267712079634
+1,Deaths,35,Georgia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.023612600207220672,0.02725686642660717,0.020647165401628503
+1,Deaths,35,Georgia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,28.77079097671089,33.074649028636024,24.97408955330529
+1,Deaths,139,Algeria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,9200.392892386497,12589.116285902626,6306.070551395224
+1,Deaths,139,Algeria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.039569293497597025,0.053633209708746285,0.026857055020096554
+1,Deaths,139,Algeria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.6832920709354,28.30144017781749,14.17660099519943
+1,Deaths,146,Lebanon,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1540.4176607084223,2207.631993891468,1190.1447548057758
+1,Deaths,146,Lebanon,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05073026759199183,0.07298855953611764,0.03970226334158323
+1,Deaths,146,Lebanon,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,27.00354710019568,38.69982540938366,20.86325725950753
+1,Deaths,121,Bolivia (Plurinational State of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2511.8196845127923,3383.6464140685093,1837.7466128092058
+1,Deaths,121,Bolivia (Plurinational State of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.032547637289502385,0.04432972395260149,0.023807977541896258
+1,Deaths,121,Bolivia (Plurinational State of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,20.812804712161775,28.03671476309578,15.227470983950717
+1,Deaths,51,Poland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,9463.75011094102,10388.95650328692,8583.228983354638
+1,Deaths,51,Poland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02310447732066343,0.025383406827499032,0.020932264351072864
+1,Deaths,51,Poland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,24.253119651435423,26.624181975861784,21.99657398902614
+1,Deaths,155,Turkey,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,41749.65217921629,54055.03059644932,32109.133913284986
+1,Deaths,155,Turkey,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07020293984928032,0.08967976468569652,0.05545099502320744
+1,Deaths,155,Turkey,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,48.622135811787,62.9531242006193,37.39467488804129
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,413.4688740848505,551.6595657173676,311.7233171530002
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029082362272501907,0.03840185703560981,0.022077674906360464
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,4.081212162597662,5.445245991496403,3.076915997959823
+1,Deaths,72,New Zealand,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2586.1177876358415,2779.603983272152,2275.216335715602
+1,Deaths,72,New Zealand,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06668361064310137,0.07215347739919134,0.05853093469495918
+1,Deaths,72,New Zealand,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,50.51889984224406,54.29858450507738,44.4455495155657
+1,Deaths,82,Greece,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5307.5546982828655,5875.855692642701,4665.373663892929
+1,Deaths,82,Greece,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04020334920854552,0.04454306807426187,0.03536677808120737
+1,Deaths,82,Greece,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,49.72070239528762,55.044495783729396,43.70480733439826
+1,Deaths,147,Libya,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,939.6593709584478,1305.8900078363192,641.8337926515217
+1,Deaths,147,Libya,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01897993128097431,0.026533216338415325,0.012887796493776893
+1,Deaths,147,Libya,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.69357216329541,17.64087026013361,8.670337162235304
+1,Deaths,36,Kazakhstan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,14384.71544892384,16376.981736842656,12645.63305836733
+1,Deaths,36,Kazakhstan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.10963420506884991,0.12467660008721276,0.09667215133643284
+1,Deaths,36,Kazakhstan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,70.50523023356057,80.27012226879276,61.981293505254264
+1,Deaths,52,Romania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6595.794372208601,7244.231737821484,6004.645979892441
+1,Deaths,52,Romania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026805549457438523,0.029326755001133797,0.024475747696957404
+1,Deaths,52,Romania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,34.134867523434515,37.49069129891543,31.075528356733596
+1,Deaths,140,Bahrain,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,220.22706883953504,290.3502941312178,165.5988144030548
+1,Deaths,140,Bahrain,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04681973746831287,0.06175583655882626,0.036612377791267976
+1,Deaths,140,Bahrain,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.061738469238387,18.53918286273209,10.57366485973805
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,15.975069967572043,20.5293909275706,12.386399086951098
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04305230890460858,0.05552655806221461,0.03366348917711267
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,33.71406393695107,43.32558165464933,26.140470846997477
+1,Deaths,175,Burundi,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1737.1789964598458,2374.2184667241468,1264.1845548207932
+1,Deaths,175,Burundi,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01521984320460962,0.021054517746895283,0.011188516157209468
+1,Deaths,175,Burundi,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.169597193866604,16.63230009639383,8.856091883581685
+1,Deaths,63,Ukraine,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7683.332250528705,8462.015679110458,6879.912237847397
+1,Deaths,63,Ukraine,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014399408941227295,0.01567451174637963,0.013044512457233372
+1,Deaths,63,Ukraine,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,19.53838680242363,21.518545609589705,17.49532391502924
+1,Deaths,83,Iceland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,156.84328837427375,180.4205379498907,133.95357985328957
+1,Deaths,83,Iceland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06103698108442294,0.06931266959287173,0.05224360818644525
+1,Deaths,83,Iceland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,40.5756618107609,46.675141840312875,34.654049980753626
+1,Deaths,37,Kyrgyzstan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1044.6187454075268,1133.8142698388517,961.4686081721429
+1,Deaths,37,Kyrgyzstan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.033068305514492635,0.035713197921314395,0.03075366854598344
+1,Deaths,37,Kyrgyzstan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.407809583903713,15.638030788905747,13.26096883513321
+1,Deaths,141,Egypt,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,14836.519517061679,20577.3356816003,11111.129421727815
+1,Deaths,141,Egypt,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021768328443815373,0.029869447104429393,0.016356727203926523
+1,Deaths,141,Egypt,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,13.514548468017239,18.7438435336432,10.121099960922095
+1,Deaths,91,Portugal,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7202.036763955824,8279.170942853129,6175.840962732189
+1,Deaths,91,Portugal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.060163541958901744,0.0692158383465102,0.051275208298871784
+1,Deaths,91,Portugal,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,68.34444487213008,78.56601689713867,58.60625765323877
+1,Deaths,157,Yemen,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3973.499462352304,5959.566912408129,2441.8939214684606
+1,Deaths,157,Yemen,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02677359450093757,0.03960726775043522,0.016874111844143957
+1,Deaths,157,Yemen,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.177164252112613,16.763827171127303,6.868869545619792
+1,Deaths,53,Serbia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3670.9356623171116,4318.724137727486,3064.7580508513274
+1,Deaths,53,Serbia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03065613073397645,0.03608525826748631,0.026229359921190007
+1,Deaths,53,Serbia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,40.90439949314334,48.12255884615006,34.14990051411603
+1,Deaths,92,Spain,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,29476.58876075613,35180.696962504524,24399.0303539779
+1,Deaths,92,Spain,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06631901859669229,0.07898337682142056,0.05501747843137588
+1,Deaths,92,Spain,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,61.82357717716468,73.78725372399732,51.17401298977317
+1,Deaths,84,Ireland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2861.7639627540557,3194.57648497092,2486.0147652724945
+1,Deaths,84,Ireland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.08042378696800491,0.08898410754167951,0.0698614218897534
+1,Deaths,84,Ireland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,53.73810279585045,59.98764460412191,46.68229761326984
+1,Deaths,38,Mongolia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,432.5571132606833,548.6484908294701,351.751840202818
+1,Deaths,38,Mongolia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02338254356344919,0.02930433289270459,0.019032958517822152
+1,Deaths,38,Mongolia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.493424098233636,15.846458344236057,10.159548374689397
+1,Deaths,54,Slovakia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1145.1521933960134,1430.5284180761175,975.7785439720197
+1,Deaths,54,Slovakia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021154828653495994,0.02631621979586468,0.017950215829921196
+1,Deaths,54,Slovakia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,21.133291276519792,26.399786781953956,18.00757341256545
+1,Deaths,380,Palau,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,15.292117972250653,19.593445872771568,11.71908124126049
+1,Deaths,380,Palau,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07727835537614039,0.09942536623262845,0.05909790036156931
+1,Deaths,380,Palau,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,85.44948030150567,109.48449195736885,65.48402278179988
+1,Deaths,55,Slovenia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,672.5257251204854,748.9205714330708,589.3340230519714
+1,Deaths,55,Slovenia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.031125011943036063,0.03455991990001039,0.027086382785735545
+1,Deaths,55,Slovenia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,31.77703485562909,35.38671342016362,27.846202892499846
+1,Deaths,74,Andorra,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,34.19173824661321,49.080069313274,24.85039383748257
+1,Deaths,74,Andorra,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.051711039049314206,0.07346007550207358,0.03802778908172175
+1,Deaths,74,Andorra,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,37.83141827326882,54.30459889694004,27.4956960871794
+1,Deaths,176,Comoros,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,116.48020641300387,173.00317993677444,73.9818918797207
+1,Deaths,176,Comoros,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026842071665878535,0.04004914947129314,0.017010681264110903
+1,Deaths,176,Comoros,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,13.202354497543261,19.608905075502754,8.385417514901889
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1826.0710593033546,2072.4999325972562,1611.1103892542585
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05333003440623425,0.06082102576499421,0.04680956468045346
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,55.402384513688695,62.87895401734881,48.88054975993951
+1,Deaths,93,Sweden,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4744.758410761344,5192.635242401484,4130.086768739841
+1,Deaths,93,Sweden,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05023881435953738,0.055108152869495046,0.04396919193264386
+1,Deaths,93,Sweden,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,44.755823117701254,48.980505286963904,38.957817633715585
+1,Deaths,160,Afghanistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4398.88000991792,6225.288239526906,3060.264529332346
+1,Deaths,160,Afghanistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.024691651856341493,0.03554161553132051,0.017134553027955864
+1,Deaths,160,Afghanistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.13754512835856,17.177035239410294,8.44399000330527
+1,Deaths,177,Djibouti,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,135.90622160060784,192.636164134732,87.12461476573462
+1,Deaths,177,Djibouti,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01602864714566357,0.022665288488248024,0.0103875931402436
+1,Deaths,177,Djibouti,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,9.780596280259635,13.863210441656612,6.26999024077781
+1,Deaths,101,Canada,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,20556.96821373005,22794.562050116285,18045.58946478615
+1,Deaths,101,Canada,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06401522068535516,0.070910282092388,0.05612922052875314
+1,Deaths,101,Canada,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,53.53044697918447,59.35715240453122,46.990804286386805
+1,Deaths,195,Namibia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,878.5647479039955,1180.4157248545628,635.3655793231442
+1,Deaths,195,Namibia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04082633049313802,0.055102576848697626,0.029130401008766547
+1,Deaths,195,Namibia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,29.17697273091376,39.201387828716825,21.100373337649916
+1,Deaths,178,Eritrea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1137.1483156091801,1579.2582104478251,824.4598151969259
+1,Deaths,178,Eritrea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01943554207649268,0.027178970918022585,0.014289738421799177
+1,Deaths,178,Eritrea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,16.189013786129966,22.48311200030447,11.737423457539917
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,8.146497185377651,9.100837311431729,7.205013676501875
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021506696482708566,0.023958748573843024,0.0189870800416354
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,16.963732800292167,18.950988246477902,15.003249132647005
+1,Deaths,413,Tokelau,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,0.783086959731635,1.1042754612241918,0.5379418803056777
+1,Deaths,413,Tokelau,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06042237960023775,0.08474812948855712,0.04175084438513825
+1,Deaths,413,Tokelau,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,48.45205039070801,68.32499204276485,33.28415416440495
+1,Deaths,184,Mozambique,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3258.6368908207282,4332.889330914135,2483.642748921552
+1,Deaths,184,Mozambique,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01405405313656614,0.018607126066678054,0.010616528919159578
+1,Deaths,184,Mozambique,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,9.784077220441208,13.009526750497354,7.457152563358194
+1,Deaths,196,South Africa,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,21323.498522750982,26132.699047017162,18539.37457624953
+1,Deaths,196,South Africa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03730284629266466,0.045321299063826426,0.03238819657213921
+1,Deaths,196,South Africa,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,33.28395542771196,40.7906605643864,28.938202443429873
+1,Deaths,163,India,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1254036.9799556176,1543659.0689268159,1034242.6056841279
+1,Deaths,163,India,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.127332126114906,0.15164124897459777,0.1060644926370966
+1,Deaths,163,India,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,86.88166175784795,106.94713731701981,71.65396051222028
+1,Deaths,396,San Marino,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,14.267529842818632,18.766953992483593,10.404907018459085
+1,Deaths,396,San Marino,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05054024298695919,0.06552044076341132,0.03806181407045761
+1,Deaths,396,San Marino,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,40.57975840453701,53.37703634714075,29.593673024154512
+1,Deaths,94,Switzerland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2906.6845500049235,3258.265081568364,2535.0431601040686
+1,Deaths,94,Switzerland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04062442357942531,0.04537542853592145,0.03550611452242894
+1,Deaths,94,Switzerland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,32.32617860549543,36.23621936224545,28.193034557542504
+1,Deaths,161,Bangladesh,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,160330.1478467718,235742.1176808597,119816.68638263577
+1,Deaths,161,Bangladesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.14715513512903067,0.2190565946330438,0.11096460347106421
+1,Deaths,161,Bangladesh,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,92.21934621311298,135.59510958725366,68.91664875272387
+1,Deaths,102,United States of America,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,220920.82080728587,242823.07837318152,195538.18432975342
+1,Deaths,102,United States of America,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07145705052924561,0.07850523384617893,0.06325411510719409
+1,Deaths,102,United States of America,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,65.86507721835603,72.39499087956067,58.297527426132014
+1,Deaths,75,Austria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3765.0929471196773,4122.619328348626,3337.2464628280504
+1,Deaths,75,Austria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0425403105488843,0.046529690909389305,0.037660120881578656
+1,Deaths,75,Austria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,41.543998171867806,45.488940710280495,36.82314431490022
+1,Deaths,162,Bhutan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,739.2076595050995,1087.3625281297661,528.1613864279035
+1,Deaths,162,Bhutan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.14845986993684737,0.21587752865728377,0.10538073879330205
+1,Deaths,162,Bhutan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,99.04376704961719,145.69178166615634,70.76643842812787
+1,Deaths,185,Rwanda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2364.8957507940404,3701.9315939106687,1520.0088492879063
+1,Deaths,185,Rwanda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02336576740961258,0.035952815704460406,0.015297657929721866
+1,Deaths,185,Rwanda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,16.970158462351137,26.564539153303013,10.907369184426377
+1,Deaths,197,Eswatini,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,351.868141405618,495.1204148162083,254.60846498631267
+1,Deaths,197,Eswatini,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029779689790954085,0.04132249973743538,0.021834337722066745
+1,Deaths,197,Eswatini,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,29.665407950228694,41.74276486451682,21.465609109219248
+1,Deaths,164,Nepal,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,28746.676816076495,36731.48186762598,22439.90457243723
+1,Deaths,164,Nepal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.15970721289180773,0.20234021760452764,0.12301285630300553
+1,Deaths,164,Nepal,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,92.54144597746883,118.24617038948648,72.23865318471904
+1,Deaths,95,United Kingdom,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,50327.595550311606,54370.28989648696,44800.144579104985
+1,Deaths,95,United Kingdom,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07537992415098085,0.08133907934417942,0.06694330378596403
+1,Deaths,95,United Kingdom,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,72.76385503605577,78.60879998412344,64.77224254613039
+1,Deaths,57,Belarus,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1212.0617587785873,1304.1014385365452,1115.1168608237722
+1,Deaths,57,Belarus,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.009863983063616808,0.010575576156058315,0.00915251627220662
+1,Deaths,57,Belarus,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.761293472478442,13.730340929010572,11.740601016421133
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,17861.975388345272,24096.48102018591,12469.90658010338
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07781260994079675,0.10327350671629949,0.057648015570846846
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,67.63180419888015,91.2378642791434,47.21551014755977
+1,Deaths,416,Tuvalu,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5.324657261060385,7.123871311622627,3.581342995877667
+1,Deaths,416,Tuvalu,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04235387781329201,0.05660389833638423,0.02920148385987104
+1,Deaths,416,Tuvalu,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,48.30322924355622,64.62500254868492,32.48855714991745
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2190.2158843260663,2887.7704603060347,1841.304834930824
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027968517631519772,0.03712775164102616,0.023573009481306684
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,19.532948748999573,25.753932661934396,16.421263871463385
+1,Deaths,186,Seychelles,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,41.8590842795769,57.67852948232798,31.258284057798033
+1,Deaths,186,Seychelles,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05201974935666713,0.0722613063695493,0.03884806848375726
+1,Deaths,186,Seychelles,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,39.418702500513426,54.315875119138205,29.435928213844267
+1,Deaths,58,Estonia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,262.15198291586995,291.27576673546986,232.1445185834704
+1,Deaths,58,Estonia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.016085372058750873,0.017813528839812832,0.014384571381913293
+1,Deaths,58,Estonia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,19.371791149450704,21.523900972766832,17.15438151742674
+1,Deaths,198,Zimbabwe,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3517.299569300498,4773.62570253978,2502.651317232924
+1,Deaths,198,Zimbabwe,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.030491413433196755,0.04130503792685306,0.021763122407175085
+1,Deaths,198,Zimbabwe,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,22.07332346765746,29.957580288402756,15.705751234327625
+1,Deaths,179,Ethiopia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,14033.096201269482,19141.761216967825,10308.281958799951
+1,Deaths,179,Ethiopia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01769002338756305,0.0241127544781482,0.013124195187319167
+1,Deaths,179,Ethiopia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.372868436589082,16.87713743177511,9.08872957572675
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,10739.418289531546,11962.043703353536,9012.54740641386
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05229433354758018,0.05806122035958109,0.043665926441765916
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,46.25820342044623,51.52445281821058,38.82000309725276
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,24.894820793423865,28.219458034419414,20.956777008069036
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0246516394290752,0.02784097878675173,0.021566982968182248
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,29.617767344764427,33.57314156202158,24.932613529198722
+1,Deaths,187,Somalia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2235.0491258052516,3266.477510394907,1375.3464197739186
+1,Deaths,187,Somalia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.012821933785972696,0.01865996490100604,0.007976823020361347
+1,Deaths,187,Somalia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,10.21774583396196,14.933021645125208,6.287530769971962
+1,Deaths,18,Thailand,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,26096.404029257716,32710.886639063407,21385.17604012136
+1,Deaths,18,Thailand,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.044111724406002,0.05514971648172067,0.03608454199117668
+1,Deaths,18,Thailand,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,39.70607094328778,49.77010564567961,32.5378667509812
+1,Deaths,165,Pakistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,109487.0754514276,162794.2677300252,80088.208511868
+1,Deaths,165,Pakistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07975212082549658,0.11737351693755613,0.05920293794585763
+1,Deaths,165,Pakistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,44.880832101794965,66.73246286834346,32.82967806688111
+1,Deaths,76,Belgium,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7038.938737860228,7746.493505257344,6161.7621193283785
+1,Deaths,76,Belgium,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06300775613423715,0.06936172733848757,0.055012580253231025
+1,Deaths,76,Belgium,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,60.62254622227693,66.7163301275995,53.06790168246486
+1,Deaths,200,Benin,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2050.1260854380976,2868.5934088021213,1448.1646489107259
+1,Deaths,200,Benin,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021423578081219398,0.029973012010723915,0.015191054274018758
+1,Deaths,200,Benin,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.421155454163724,20.178481595333047,10.186791765396814
+1,Deaths,112,Grenada,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,28.9758976375792,35.045454678165875,24.511690505659292
+1,Deaths,112,Grenada,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.028647255132149912,0.03426674492168118,0.02407616515666026
+1,Deaths,112,Grenada,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,25.414787316699734,30.738401557144552,21.49922700465975
+1,Deaths,19,Timor-Leste,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,523.1212282928158,721.7746198068164,375.08563934174305
+1,Deaths,19,Timor-Leste,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05751076247358978,0.07715445320685084,0.04197230741425175
+1,Deaths,19,Timor-Leste,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,36.46101004073803,50.30694652902817,26.14308218155665
+1,Deaths,77,Cyprus,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,730.8601529505991,948.9812571490071,563.612265811794
+1,Deaths,77,Cyprus,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07228143092933773,0.09247963546085322,0.05631302803358604
+1,Deaths,77,Cyprus,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,53.424128863880924,69.36825980546122,41.19870839370888
+1,Deaths,180,Kenya,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5768.086546242627,8425.836020891365,3837.5775608441936
+1,Deaths,180,Kenya,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020638847027783853,0.030165263506528307,0.01399011430385684
+1,Deaths,180,Kenya,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.067896792716219,16.16762902635781,7.363605250537542
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,8.868523844854842,10.378949865038374,7.462366614424082
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014314672943919238,0.01642304564922184,0.012048568790933425
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,9.76485736139351,11.427940744834638,8.216581118012305
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7550.933100989059,10700.197338060194,5143.7994506501
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020825903000284512,0.02973726539843264,0.014106564901578545
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,11.541885485497923,16.355654419974112,7.862491088948218
+1,Deaths,113,Guyana,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,125.21995673796366,148.24899796709747,107.24041629900522
+1,Deaths,113,Guyana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.018464721114897182,0.021617243612618468,0.015539170663026744
+1,Deaths,113,Guyana,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,15.340808353615717,18.162116691893946,13.138118851515578
+1,Deaths,20,Viet Nam,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,48407.13636380188,65453.016519785284,35339.33281842405
+1,Deaths,20,Viet Nam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0715442581357124,0.09698001356445426,0.05326569413525233
+1,Deaths,20,Viet Nam,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,46.92731291358732,63.45209442422235,34.25899679055798
+1,Deaths,10,Cambodia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7162.989953028969,9952.004921882673,5245.234808818833
+1,Deaths,10,Cambodia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0702116170763526,0.09534850876783241,0.05213109914266049
+1,Deaths,10,Cambodia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,41.665619657447884,57.888738449070374,30.510437679147756
+1,Deaths,181,Madagascar,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3392.10302569905,4932.862490135301,2321.881163474755
+1,Deaths,181,Madagascar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01469492675359497,0.021077807843021216,0.010028661808362255
+1,Deaths,181,Madagascar,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,10.99470989035539,15.98872192181628,7.525835624354259
+1,Deaths,78,Denmark,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5477.543507043243,5936.93885709986,4921.492274412806
+1,Deaths,78,Denmark,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.093505189746453,0.101432223997874,0.08388144030579822
+1,Deaths,78,Denmark,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,92.69669152040905,100.4710577112667,83.28661389813017
+1,Deaths,216,Senegal,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2975.001996681444,4076.176129394303,2247.5400703943933
+1,Deaths,216,Senegal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029077883950338914,0.03972716692520628,0.022413973568401892
+1,Deaths,216,Senegal,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,15.880302594919671,21.758274595168682,11.99717393530603
+1,Deaths,435,South Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1236.8503247008966,1734.118799304535,882.3403718379593
+1,Deaths,435,South Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.011852054580451212,0.016403559703916947,0.008525131886657147
+1,Deaths,435,South Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.554761718700318,17.60233059925991,8.956276197682913
+1,Deaths,206,Gambia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,375.3900239637992,537.7700601545681,256.19690596895873
+1,Deaths,206,Gambia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.023443892117381536,0.03397496827308698,0.016187774903415005
+1,Deaths,206,Gambia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,14.876035904717538,21.31086659914259,10.152625612233386
+1,Deaths,217,Sierra Leone,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1335.0810722299286,1758.4930582825352,1024.9022909612452
+1,Deaths,217,Sierra Leone,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01703890646577416,0.022115080863531738,0.013030014922395153
+1,Deaths,217,Sierra Leone,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,16.659692921821193,21.94320252567843,12.789154005281844
+1,Deaths,207,Ghana,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4176.120212147967,5540.966826563021,2961.2890520286146
+1,Deaths,207,Ghana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017442167348489142,0.02340917403083469,0.012441397187264216
+1,Deaths,207,Ghana,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,12.55439366597625,16.65744166761131,8.902327191101367
+1,Deaths,208,Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2448.001155438192,3408.875699909191,1804.3117388170315
+1,Deaths,208,Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020429041141367288,0.027805570058163077,0.015136630299399226
+1,Deaths,208,Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,17.2711121611089,24.050264202539424,12.729761317917484
+1,Deaths,122,Ecuador,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4197.685648015806,4699.988997287235,3761.580225768509
+1,Deaths,122,Ecuador,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04137400137913504,0.04622340763600256,0.03705563006484955
+1,Deaths,122,Ecuador,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,23.63991814138377,26.46871740236045,21.18392277931733
+1,Deaths,209,Guinea-Bissau,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,329.20973810935106,459.73965250863006,237.4027463595622
+1,Deaths,209,Guinea-Bissau,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01884699889401272,0.025735411751349465,0.013784834829157813
+1,Deaths,209,Guinea-Bissau,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,15.17101562996602,21.18624283102717,10.940261962789952
+1,Deaths,123,Peru,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,12956.50319671578,15231.841840797673,10504.766714698468
+1,Deaths,123,Peru,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.061262063745372665,0.071464326693784,0.050103512811229656
+1,Deaths,123,Peru,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,35.86467817008517,42.16300472926359,29.078067728180105
+1,Deaths,210,Liberia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,876.6532856426473,1230.5627181271989,636.8510798131572
+1,Deaths,210,Liberia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01816185268439515,0.02520506176123032,0.013424358984302045
+1,Deaths,210,Liberia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,15.287270187553078,21.458819652914144,11.105547296502413
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,495372.81430687435,585473.0928623913,424859.26669289684
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0355178895276366,0.04013322375086488,0.031781651708977225
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1043.286105040981,1233.0429224570069,894.7801670521517
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5757.649757363421,6757.396172913916,4880.416832010206
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02510981769359665,0.028581066104611974,0.022259104501750324
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,880.3007925541598,1033.1544045399803,746.1785600485371
+2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,646719.15556693,830440.9549892857,501904.74384853593
+2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.012417979709902603,0.015815180639290202,0.009846867186619855
+2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,570.2070956035882,732.1931335087924,442.5253895698445
+2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,304848.1485249793,380532.16832960653,232457.33840187255
+2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017357486837001133,0.021696343467145003,0.013801331793465788
+2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,844.9647127729244,1054.7423557244858,644.3150438179631
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,100737.32114427516,127361.16491737713,77798.9902362431
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02514461209641954,0.0323105947171721,0.020192169808983897
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,834.7041012256418,1055.307858952843,644.6383076675273
+2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,77936.9255943218,94674.60400630924,65533.274692595034
+2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027775100684402834,0.03335494094797831,0.023620655472480663
+2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,729.3177477075511,885.945505707968,613.2469292859273
+2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,25295.986716825588,33023.021975982294,19705.757641688324
+2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02782161433872742,0.0364250018245877,0.021840151186916297
+2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1034.6328892748388,1350.6768888707197,805.9865461033197
+2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,709.4172836533071,855.5113999331192,571.8301671255638
+2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02971997962337259,0.034784429943536144,0.025218682449899606
+2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1025.6910858516374,1236.9171670543694,826.7646116842787
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,13418.807896727305,17374.515382667294,10155.657475335187
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04207200900819408,0.054992368139808984,0.03198985192646216
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1560.7562549453048,2020.8489285218116,1181.2156526644364
+2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,243005.92353591963,270211.19580298796,217102.22852158625
+2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.031667585352333945,0.03459754622560315,0.028979976198642392
+2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1257.615768353755,1398.4097822921212,1123.5577386784526
+2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,188110.94033355484,246308.31259355103,146550.65677278995
+2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.012485656156786379,0.016268614132879507,0.009918747392258676
+2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,609.717688554924,798.3508814538369,475.0097338584865
+2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,176105.99987266405,204641.8401556785,152436.65246405255
+2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.016480662861334032,0.018354319542898956,0.014871478939297387
+2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,498.26934283384895,579.007843482947,431.2999596945884
+2,DALYs (Disability-Adjusted Life Years),206,Gambia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,16434.017962391077,21464.592847207758,12338.616274206812
+2,DALYs (Disability-Adjusted Life Years),206,Gambia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.015485536593856186,0.020041683845801565,0.011896991997505197
+2,DALYs (Disability-Adjusted Life Years),206,Gambia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,651.2507676306242,850.6034617105282,488.9573163705951
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,356808.68552987196,421604.30638000264,301800.4627494225
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.035047613717138375,0.04085523089824701,0.03084904331851783
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,987.6761098676476,1167.0357760783468,835.4087753271644
+2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,117177.00825831875,128584.06998633222,106450.96880401461
+2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06424338074898918,0.0708494023329293,0.058519282656949584
+2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1982.9912758956855,2176.0334454003696,1801.4740740235495
+2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,74280.58150474867,87222.73684552673,64130.44706790028
+2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03526838616311686,0.039922245331717385,0.03146042086186293
+2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,743.5708048224776,873.1256449695569,641.964927763192
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1099.5277141014435,1306.127840635175,925.9044812853732
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02701678472196222,0.03065642329289179,0.023532492099420155
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,964.396801514923,1145.6059685658302,812.111699239593
+2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,32370.82249089282,42438.483646963694,25309.333958131963
+2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02481536366445077,0.03285880052445039,0.019285744218121195
+2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1075.0290258598413,1409.374190192405,840.5182981626971
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,54368.25473743936,69306.09722070469,44145.02426410446
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02700421539788049,0.033860058378117515,0.02271003250731935
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,860.0495185152324,1096.3507258545546,698.3285935246572
+2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,23817.264704820424,30042.149296147632,18695.36709665555
+2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02529696814247679,0.03041456754982029,0.0212792822663036
+2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,463.893778337591,585.1371397636318,364.13352193715775
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,488805.85897824727,648792.5347365167,407517.614061306
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0364961612315527,0.046873782750036105,0.03103634960549037
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,945.4881373571934,1254.947406893868,788.2537878422165
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,33487.987382109204,40967.68771665097,27382.714618243393
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0302716865673719,0.03451290960661427,0.026421676814715824
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,797.1919418320929,975.2485316766372,651.8540272388441
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,644.8918933898327,822.0793901649979,512.7621456224351
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037712684333012274,0.046279971411127274,0.03118346414178576
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1316.551503901493,1678.2810708924533,1046.807660140478
+2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,47986.221602902246,54774.647823327134,41893.43202074601
+2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02570601312131629,0.029031588544086717,0.022990429394290555
+2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,885.5650840491071,1010.8425707034867,773.125272407646
+2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,113290.14085694785,161118.56805747037,83448.62091547443
+2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01821079624256846,0.025334659738863317,0.013786825281833255
+2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,812.9540771169162,1156.1641269998222,598.8155376087035
+2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,104808.51559505616,132925.89809624274,82976.55480133905
+2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.012939453436710208,0.01645494553952744,0.010386768541312912
+2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,739.4439435865087,937.8174066774076,585.4153220200596
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,500499.29650399444,575272.529361526,441345.9905959448
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03664243399661378,0.0401808981629026,0.03312736840008057
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,960.3445082717886,1103.8173643617765,846.8427453887643
+2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,78335.81597339318,94347.54053865116,65789.91510182337
+2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.023033245926396727,0.02752499459935801,0.01996785880562557
+2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,744.4832965601076,896.6545778550454,625.2503055824551
+2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,965.0678736964737,1174.5204477558568,780.4905920720719
+2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03910904759976078,0.04769809548350655,0.03322875120461406
+2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1067.7984877098745,1299.5471013808456,863.5731191570677
+2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,657084.1131566949,770502.6844867,566108.96307894
+2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03125454459550588,0.03492204687198823,0.027791113890012518
+2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,940.3931789350889,1102.7134187760805,810.1930890642284
+2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,666950.9164480449,782624.7590431331,575306.8502019123
+2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04717157054724102,0.05332169187462155,0.04192984037465272
+2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1398.8488217233123,1641.4607057883277,1206.63648506582
+2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,94663.89953826978,108218.011666312,79484.83499727093
+2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03098053163132877,0.03442060424845407,0.027522695789640863
+2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1366.661618302644,1562.342177691358,1147.5216397986387
+2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,338155.03281006584,408247.5851718716,271080.6437332185
+2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.028310393863711307,0.03496523847795756,0.023136302413132068
+2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,760.2022425210926,917.7764623890569,609.41311905833
+2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1613012.1597698634,1855717.5854148797,1399196.8258662594
+2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03803880661106602,0.042834341286870206,0.033675579656031546
+2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1293.797440405452,1488.4715205542586,1122.2961097748205
+2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,219420.40621283738,285436.94212864444,174939.86334771215
+2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04210642456428215,0.053909928167489254,0.03386471959738943
+2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1276.3227716773297,1660.3272020349527,1017.5887243970569
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,589.4417029954021,697.1469299558182,497.6483679260887
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02770802762495767,0.031051665608969766,0.024677553011220363
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,935.3360258486218,1106.2444947206732,789.6768151297073
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,156.98801935185074,198.4397112414956,127.00544691477272
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.028315943495936524,0.03542687178050248,0.023432274136243793
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1067.0722324410583,1348.8258948272742,863.2759769251975
+2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,125959.84808084539,167038.46621037828,99830.13081905355
+2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.008527081890520764,0.011256581770241062,0.0067504218644905
+2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,653.0698384932433,866.0520460468837,517.5938872910799
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,27405.947756262074,33615.25558486012,21679.36680479986
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.010631250230348634,0.012701843989502583,0.008788585769742042
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,506.750507363039,621.5639019042428,400.8629887697102
+2,DALYs (Disability-Adjusted Life Years),197,Eswatini,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,13079.562336241073,17072.206424912343,10129.21445736751
+2,DALYs (Disability-Adjusted Life Years),197,Eswatini,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019118064748669377,0.02479011031390238,0.014851051349193775
+2,DALYs (Disability-Adjusted Life Years),197,Eswatini,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1102.7157814431287,1439.3288525138798,853.9769411711901
+2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,22992.940702491796,29390.656343650044,16976.083489477678
+2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026647268652473174,0.0319763738706494,0.022310961169160176
+2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,491.33105538459955,628.0424233950512,362.75816673933434
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,58397.10765846685,74554.98045238976,47493.48780217733
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.028067981126536447,0.035428621131605074,0.023671047747428682
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,943.8723942110751,1205.0320764431594,767.6371970928625
+2,DALYs (Disability-Adjusted Life Years),367,Monaco,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,617.877687251446,785.6715571731261,492.1241508338501
+2,DALYs (Disability-Adjusted Life Years),367,Monaco,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.041656673470588844,0.0517044899243949,0.03397748462964871
+2,DALYs (Disability-Adjusted Life Years),367,Monaco,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1588.5751828978475,2019.9763859186253,1265.2604699110716
+2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,138823.7693990206,156241.1204396746,120975.31109488748
+2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03655451237224506,0.039908194901582185,0.03327080882909934
+2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1300.4887779892042,1463.6529801191946,1133.2860011922705
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2027.9304551032708,2374.8681012424404,1697.392682824153
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.034497201304029376,0.038871760684280374,0.030831823949737866
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1133.838704880285,1327.8154413027476,949.0313222149441
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,51291.9485852176,65266.1512121549,39624.627997286
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029971388112369844,0.035881787011144306,0.025684236029308367
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,506.285569555026,644.2202226770814,391.12137299056883
+2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,10150.229007944161,12523.95244167037,8145.678169792129
+2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.031280482626258765,0.03741346034562375,0.026547257481950724
+2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,648.1031894248458,799.6680188495222,520.1104327536632
+2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,16222.365205762928,22827.228662483743,12465.776037517284
+2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06826412590135394,0.09596493443778367,0.04985215932229703
+2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6767.74690460187,7744.012933638995,5955.283725050465
+2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04158892084075707,0.046105811894655686,0.037504336977927696
+2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1027.200968860714,1175.3775223028724,903.8862266041181
+2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,41726.21028534354,53810.21182001841,32288.621860021416
+2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.012509852975528899,0.01597643675843827,0.010017780515658464
+2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,727.6307075802416,938.354148001684,563.0559931068225
+2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,8555.350863882199,9705.079510882922,7552.308418663718
+2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017189310298830245,0.018953272351680782,0.015630962579339252
+2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,632.1999486785713,717.1594556809894,558.0798579331869
+2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2173.5761795394583,3058.538002094103,1670.2443516063765
+2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,31829.58644230351,39054.005595661554,25500.76411189586
+2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026842750287035713,0.030341602337843724,0.022490483398089553
+2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,559.2072683954048,686.1315596618298,448.0175281842851
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,323098.5545333569,373145.6111003412,282954.34731770726
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01719123135965809,0.019136423825377544,0.015587229940425005
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,821.6258685601267,948.8934027034317,719.5408587127354
+2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,31204282.0811657,37440972.583889425,26676436.86036433
+2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0645300298336368,0.075948296705335,0.05500191367332252
+2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2161.881925737365,2593.9696898200477,1848.1856605925534
+2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1540.080155426778,1804.736576133857,1311.4723247896661
+2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029531251480390333,0.03329579977418079,0.02626573242886435
+2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,977.1752360516675,1145.0987687754314,832.1244021201206
+2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,9807.364628064297,12495.164178444333,7523.465487438856
+2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02142805523872281,0.02585961508011605,0.01814862979721218
+2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,316.0816673217874,402.70678992401986,242.4738556678862
+2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,14151.728647393233,17330.474682985365,11567.580115267827
+2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03793185889834499,0.04632806552419389,0.03134458595413622
+2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1508.3452634140199,1847.1481507393548,1232.916847882068
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,70847.0134392426,80495.62946053267,62802.098339691314
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05233079643911282,0.05780766179414032,0.047286596692889
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1330.362720520501,1511.5440919886053,1179.2955884193866
+2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,187720.0285327808,235347.08316126332,148453.38745852283
+2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.025916622130923522,0.03047234097623217,0.022069980733904898
+2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,569.0518902976708,713.4278829793237,450.01953928220814
+2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3841045.4485508148,4738541.322023561,3160232.4497549245
+2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04054001116799678,0.04998004314659704,0.033784820714626865
+2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1336.1687277960625,1648.3769366087815,1099.337101965824
+2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1234913.3439135728,1510177.2960201507,1041845.9114451156
+2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.036754807715717756,0.045358232896810007,0.031864702954627025
+2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1078.4188303267483,1318.7999313367552,909.8178870111713
+2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,131331.96568389217,150841.61266833404,114638.41058934774
+2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.043510003208887725,0.04785707094369265,0.039504427173028274
+2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1238.813384579706,1422.8417868570652,1081.3482969321462
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,559.4435203942968,708.7857741042187,439.2157017955859
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020247710196563427,0.023753339398825714,0.017107117931730365
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,615.9859604567114,780.4220978588196,483.6068272406437
+2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,167884.30695470783,186423.49024528608,150576.42872766987
+2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04732118760934701,0.05200160796240623,0.04264174088163577
+2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1445.8961126646489,1605.5640026423348,1296.8327826793227
+2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,122048.11402752389,161675.23922985076,89658.22788127448
+2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.009216954960661126,0.012242072891434386,0.006883336636142114
+2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,557.9548987310748,739.1141800967969,409.8813640546924
+2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1253664.4714331934,1388627.4295926436,1132309.7522419242
+2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04213973295877263,0.04592865288798713,0.03847657027866208
+2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1484.6055874813512,1644.4304579727932,1340.8957685593678
+2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,30065.76907491691,39126.258963356464,23311.686337084437
+2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017591005565865164,0.02292203691222376,0.01394446569196274
+2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,653.8479454107985,850.8887290079125,506.96518614186687
+2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1793.7825788308623,2278.425210639063,1415.1750996284563
+2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04036025231357635,0.051857766830314365,0.0325639514436824
+2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1403.2105795789644,1782.3288051063298,1107.0397801776207
+2,DALYs (Disability-Adjusted Life Years),396,San Marino,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,391.8327522121078,473.48564537025277,321.55271517729983
+2,DALYs (Disability-Adjusted Life Years),396,San Marino,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04013548310382744,0.047990387435299736,0.03434683217590114
+2,DALYs (Disability-Adjusted Life Years),396,San Marino,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1114.45208770707,1346.689532723299,914.5613599529655
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,20.82121461760959,27.138636019656488,15.830594970214866
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.043433839628257115,0.05615261573121512,0.034402942783193814
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1288.2739615455916,1679.152670873367,979.4886451366782
+2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,711116.5505398806,880786.4091897297,575199.8692296287
+2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0737494988037084,0.09040819145366066,0.05876808473464502
+2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2289.229960962565,2835.4320196808358,1851.6862997809937
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6348.828727220238,7657.624623185142,5136.628260752721
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029373043769000625,0.03539977753953202,0.024410418958859734
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1069.1246620423296,1289.5221605536042,864.9935585392307
+2,DALYs (Disability-Adjusted Life Years),106,Bahamas,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3103.9603370370764,3720.735831679725,2525.88565738171
+2,DALYs (Disability-Adjusted Life Years),106,Bahamas,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021112700280979155,0.024413576024133115,0.018129912376717537
+2,DALYs (Disability-Adjusted Life Years),106,Bahamas,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,751.8319596450672,901.225469370414,611.8124452071493
+2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,538.13227513965,704.1379528470638,412.3751290106162
+2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03193038673025444,0.04202642692730969,0.025235676514656056
+2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1291.188191331071,1689.5002433151299,989.447988115855
+2,DALYs (Disability-Adjusted Life Years),47,Czechia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,140148.21187815024,155755.8910489064,125552.36345299231
+2,DALYs (Disability-Adjusted Life Years),47,Czechia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037962172987597964,0.04181147589195677,0.034717538010356354
+2,DALYs (Disability-Adjusted Life Years),47,Czechia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1286.645177342484,1429.9330927960318,1152.6464788661958
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,164000.17590283055,197085.48742686684,135704.31769954806
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.032276842496900625,0.0387569645141006,0.027823778117197454
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,922.3073577785689,1108.3731719463215,763.176563729853
+2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5094.453063039897,6665.674183013795,3828.733634050448
+2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.018707552943764662,0.024210469807818873,0.014577264446737952
+2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,577.4266493902696,755.5154325297071,433.96470756732685
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,249138.87760163087,292396.61557572836,214689.80338807506
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029368247492663247,0.03376548930882777,0.026003723243797027
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,729.2278971562286,855.84301881952,628.3956778351696
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1177.0318960929774,1420.5897470072314,980.5082200383952
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05376148810231119,0.0644726248542605,0.044919267351682834
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2079.208612788747,2509.4497838344896,1732.052583095805
+2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,7511.671517929829,9789.750113980133,5410.908519731952
+2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013542997157020545,0.017452955752620944,0.010143255850340396
+2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,540.5832466058946,704.5269335119032,389.40021374767434
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,88163.6392384859,120696.10440496128,67753.11622683116
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.029158223053041523,0.03932552631238942,0.022511182607005107
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1172.1123982172614,1604.6229671497586,900.7598623793805
+2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,88740.77605297313,102167.79630760099,77353.07519444815
+2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.036579739691934905,0.040810490222215556,0.03320791679322225
+2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,986.9148601879849,1136.2410933665963,860.2685573210256
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1291301.7951801536,1462930.4473566364,1170723.136165982
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.057978412822228896,0.06319132063480859,0.05346129083778211
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1866.9697132333094,2115.1111598978723,1692.6365671926226
+2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,20797.343508470705,23565.06041345678,18463.035231401795
+2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017418443856285923,0.0190459250871563,0.01581292826629908
+2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,732.5385997116271,830.0250630741673,650.3179586050909
+2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1239.7802145285705,1540.1152667838105,995.7113262442501
+2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03955258066324997,0.05017137285748191,0.03221039465055425
+2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1187.524595261505,1475.2007956014709,953.7429907647963
+2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,60369.3834283006,75699.66094995073,47488.6533632112
+2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01139410713253303,0.014297244683089603,0.009121348503588943
+2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,753.3140950873733,944.6116284202435,592.583026422876
+2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4020.7977680812446,4797.342590127193,3396.5766573307687
+2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03501039313368032,0.040169185250778894,0.031064616441307213
+2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,972.0712167939078,1159.8093010252462,821.1590322785394
+2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,376218.0352319363,420426.6201501863,333994.9551692897
+2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.06287564980047071,0.07163622667646137,0.05640491326577891
+2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1843.9947099565236,2060.678624840246,1637.0425466303016
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,153296.71122974655,205920.1891677329,112795.63554015182
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013438240221177927,0.0179556635677542,0.010304736845750447
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,631.6207873989509,848.4426768199706,464.7462268662885
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,147379.41033753,192023.01696211298,112776.39551768592
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0557769117817216,0.07230147330584591,0.04513258429564988
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1375.339721402347,1791.9523632688763,1052.4255459892918
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,67597.58704495143,90093.04513250197,50408.63452806254
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.012213707495900736,0.016145543217989368,0.009223157962567634
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1029.6895018648577,1372.354647840977,767.8564286972573
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,859.4082347888001,1010.0389827941244,720.2743869560251
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.024499444509824827,0.02764019581414732,0.02165088417352614
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1022.4517526502203,1201.6595680592804,856.9219836638318
+2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,377565.46625424875,447054.5827028824,322466.60977450846
+2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05177741065643614,0.057518683814312306,0.04627155061204265
+2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1400.989204794537,1658.8345606240073,1196.540148871985
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,422052.0005594126,545102.761637532,328588.87308466976
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.047108115853246764,0.059886629873982584,0.03651135897793661
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1598.0392785785925,2063.9533109755166,1244.1545709940542
+2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,712292.5406496085,837922.6603612739,610714.119389988
+2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.030803273128303273,0.03596385049748038,0.026608383069331422
+2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1083.7638059136264,1274.911921197731,929.2107113064236
+2,DALYs (Disability-Adjusted Life Years),25,Micronesia (Federated States of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1628.7552902347009,1983.0757547066723,1314.031263613541
+2,DALYs (Disability-Adjusted Life Years),25,Micronesia (Federated States of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.041612356475378975,0.05129987852971869,0.03386696934380421
+2,DALYs (Disability-Adjusted Life Years),25,Micronesia (Federated States of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1574.5438817177944,1917.0711618111466,1270.295113645012
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,52111.92140706322,59139.654599968344,45724.79577782857
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0294633383218122,0.032625281869903766,0.026785260542662306
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,718.7489636627308,815.67833822642,630.6551109925083
+2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1469904.7017506517,1868145.6847567814,1158667.324420009
+2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.011051947079110364,0.013969751236120698,0.008685700528680068
+2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,600.369356715568,763.0273048807838,473.2472488732755
+2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,168656.53619006163,210074.8129656893,132622.30407127738
+2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03886645789229032,0.04776626765926849,0.031143985868276783
+2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1518.5178851605317,1891.4319475330872,1194.0796677840249
+2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,132079.71851851436,171737.16477601684,100224.07539855488
+2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013108122575913896,0.016825845359675965,0.010322203775380862
+2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,630.4545727725346,819.7509963110112,478.39840473358504
+2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,47071.04393228894,59881.72931510837,36111.627923969296
+2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017183085628784157,0.021143733247799695,0.01376375008796418
+2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,635.8683916989106,808.9240375998584,487.8209797657072
+2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,282767.0049934532,389064.4387003388,212599.93543791218
+2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013731306582060843,0.018391366085431907,0.010539426385122317
+2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,620.0778991516099,853.1768400259145,466.20899538530205
+2,DALYs (Disability-Adjusted Life Years),374,Niue,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,27.894426069262234,36.304158453475345,21.337981936243825
+2,DALYs (Disability-Adjusted Life Years),374,Niue,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.041774586178674966,0.05449580656124819,0.03243269119729593
+2,DALYs (Disability-Adjusted Life Years),374,Niue,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1659.654298448459,2160.014064431974,1269.5609277914525
+2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4450.597572385817,5184.611961673076,3856.4570995518775
+2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04526780728966386,0.05017570493436243,0.04097290770143713
+2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1151.378193002366,1341.2691340344172,997.6729044708767
+2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,120175.9313329005,142055.13769782076,101329.71850007614
+2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03307075069815035,0.03958119547242955,0.028906115865217165
+2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1003.404806813961,1186.0844881140483,846.0490007307012
+2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,265898.4566096951,302140.49486324773,235699.61234499273
+2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.047772359305770604,0.05244799327411323,0.04331988242227893
+2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1495.1573651475958,1698.9477560873243,1325.3480890915396
+2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3062812.6919971337,4271736.188690177,2400227.833055581
+2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03455594832929154,0.04751924410551472,0.02735036447589871
+2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1255.5051052555773,1751.0658118986712,983.8989847638491
+2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,53502.624918428075,70339.94437148442,41279.28068480256
+2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01420655520759952,0.0186768986453364,0.011147048813814236
+2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,761.6902039155425,1001.3947288270361,587.6725444822898
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,178.67865806139295,231.46700140282263,131.85595983626038
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03387514828533714,0.04348064601971334,0.025367176028881794
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1620.9036109023987,2099.7790248104175,1196.1462199036728
+2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1395900.9089572248,1730039.94037132,1094753.3768745807
+2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.053166341153082074,0.06622289272545763,0.04109568940400746
+2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2427.162691253264,3008.156503590303,1903.5337934255413
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2467.37040038671,2952.172503157294,2053.180399507831
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021932394613724142,0.024735318960094756,0.019351279482904
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,819.7355713838576,980.8015907624052,682.1290421903834
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1309289.1116049532,1465835.6798199667,1154539.004279743
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019954525847737586,0.0220959328565736,0.018226312155894153
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,880.8604242426555,986.181453241799,776.748013941629
+2,DALYs (Disability-Adjusted Life Years),203,Cabo Verde,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2943.6538066333756,3758.125457747789,2348.215634941571
+2,DALYs (Disability-Adjusted Life Years),203,Cabo Verde,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02152773867912779,0.027430320484897054,0.017902147798728438
+2,DALYs (Disability-Adjusted Life Years),203,Cabo Verde,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,595.0433865763506,759.6843400938554,474.67884323844197
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6551209.895243776,7504055.339107688,5833847.7699486865
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0532171277694698,0.057704623210411296,0.04894580716137338
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1953.1701179052432,2237.2503531131383,1739.296606103919
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,25286.56531208574,29438.006588600187,22109.44784644734
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03796273489548312,0.043772442052636834,0.03380558952966409
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1365.2750885101902,1589.4201744989605,1193.7358036934593
+2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,120698.92171603089,152875.76973411028,96613.32978788679
+2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017699933842710514,0.022387930451910877,0.014552650686195236
+2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,644.2803742213187,816.0375977955642,515.7135737877933
+2,DALYs (Disability-Adjusted Life Years),155,Turkey,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1094447.826824861,1317598.524037384,910648.9310217843
+2,DALYs (Disability-Adjusted Life Years),155,Turkey,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04294571336425358,0.05093385858416625,0.03602693938928389
+2,DALYs (Disability-Adjusted Life Years),155,Turkey,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1274.606807413945,1534.4907331479076,1060.552452291855
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,55882.83828474947,68736.89171713934,46316.14072243224
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03219233657233572,0.03714059054515639,0.028067513420079834
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,820.4820511370342,1009.207614285648,680.0220480401655
+2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3159.6996443996604,4269.996568566372,2436.8728938864815
+2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04825047426579762,0.0632349005951642,0.03780732769691213
+2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1441.378897241699,1947.8696198655364,1111.6427381741369
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,40476.6564045205,50092.72338070498,33997.268258481636
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03348109694258569,0.041535487140537,0.029237421171535112
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1268.0790695694586,1569.3374823744205,1065.088575258503
+2,DALYs (Disability-Adjusted Life Years),142,Iran (Islamic Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,664331.3229627019,821762.1114354406,544986.2753174995
+2,DALYs (Disability-Adjusted Life Years),142,Iran (Islamic Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.030811292820080927,0.03821764854666386,0.025554011068856082
+2,DALYs (Disability-Adjusted Life Years),142,Iran (Islamic Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,755.5632043885099,934.6137878795892,619.8286341373781
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,100132.84233681048,121918.72207931842,82985.71452311223
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019404463346884802,0.022445321848553166,0.016987678184284163
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,607.8734996937068,740.1283988250001,503.7789354073171
+2,DALYs (Disability-Adjusted Life Years),380,Palau,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,410.59275823356154,513.0682970752331,327.7628054583599
+2,DALYs (Disability-Adjusted Life Years),380,Palau,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05128479699515479,0.06379780152764539,0.04156616708697636
+2,DALYs (Disability-Adjusted Life Years),380,Palau,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2294.3151413221744,2866.9291869061312,1831.4769372955827
+2,DALYs (Disability-Adjusted Life Years),20,Viet Nam,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1243377.3340079095,1595048.732552947,985322.9184922941
+2,DALYs (Disability-Adjusted Life Years),20,Viet Nam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.042353807035495766,0.053536558941449576,0.03409191383961635
+2,DALYs (Disability-Adjusted Life Years),20,Viet Nam,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1205.36684475893,1546.28752302947,955.2012449055645
+2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5109.4089179463945,6114.563860828119,4284.027616673808
+2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0509603929504709,0.06063363409967201,0.04300173244534763
+2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,941.6268284842678,1126.8695593364737,789.5150696705103
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,953706.5122948121,1213039.1653680676,750214.8878709619
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.018023533494269134,0.022536730971658935,0.014338799466957961
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1011.8868619490933,1287.0399631770645,795.9813411031568
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,19923.303809197154,23399.22794655434,16981.41778623966
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020115314590413293,0.023363926833854624,0.017639880776334712
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,575.439118432081,675.8332468604335,490.469461000223
+2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,175263.8186674151,219579.6183325105,138692.73930706346
+2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.010542292056077152,0.013048589566005568,0.008508630692119242
+2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,526.2306888569914,659.2891487394891,416.4257991178206
+2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,235159.4721368812,315118.03637657536,179687.88829161186
+2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.016263478809934843,0.021093672612687398,0.012856952294422882
+2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,648.8603233066211,869.4848185576639,495.8011694434888
+2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,281797.2812842937,383108.83367296634,211877.1689997042
+2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.016059127913200244,0.021149931568955435,0.012691988123531565
+2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,540.7171339608728,735.1153623435791,406.5533033219118
+2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,106828.0875017486,120965.08905693643,95742.44494229156
+2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03832097089794594,0.04169616788499153,0.03491758080029843
+2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1178.7400561444122,1334.727590851546,1056.421186280554
+2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,753600.6025523266,869464.9457586464,650711.9389502213
+2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03953627046931399,0.04430351927562044,0.03475712768831092
+2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1279.5865127008633,1476.3199685495215,1104.8852905824417
+2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,20319205.37693257,27251197.863803227,17016465.79252381
+2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05202360465352939,0.06830162197893576,0.042499861027275515
+2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1420.2827528065056,1904.8188943065907,1189.426083870409
+2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,386846.80186855415,485415.9408277924,336875.1942384454
+2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0571497448994498,0.06933413446619577,0.048583942657607765
+2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1707.5497913950014,2142.636011197906,1486.9740808752113
+2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,207138.9434062092,267258.32962841284,155402.0962767933
+2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01841654625867299,0.023776168455706063,0.014568891225667083
+2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,582.666743860499,751.7781935809335,437.13476537884395
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,49047.75728303205,54372.18787497165,43645.29768640008
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04215029840908476,0.045809302921778386,0.037790911604804925
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1441.5457642181714,1598.0342723958831,1282.7639324018
+2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,165217.5081773918,190569.01760194008,145284.26152551512
+2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04619637256332834,0.0510504968384656,0.0411140212983344
+2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1567.84799211971,1808.4236646798206,1378.6894635573685
+2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,57498.669473179005,65204.86434106241,50570.53874113897
+2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014360595792713883,0.015617708304944942,0.013177068988136541
+2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,605.3795444909456,686.5148608664634,532.4361413624167
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,6773.12176400331,8199.2641832853,5522.30117274373
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020525127142141154,0.02389248118759765,0.01732465195857649
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,829.7811758129823,1004.4991529557905,676.5420318686695
+2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,143282.95216323136,191244.84522760008,108792.26543548735
+2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.019727979664112383,0.026215103881976343,0.015053546958220473
+2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,899.1929428203017,1200.1847573848916,682.7416369923646
+2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,25989.871727121386,30509.694356733628,21685.57186459361
+2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.028156326024627653,0.031652560952004034,0.02503289741918361
+2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,857.2805243923077,1006.3676747544525,715.3024306936418
+2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,59150.90702905086,71615.60033070379,47923.29105953619
+2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.021908978046872633,0.025324062289085906,0.01898843372807922
+2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,448.10922397600484,542.5379372966532,363.0522310759829
+2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,1203.7527724791682,1484.6877895850707,967.2327760087074
+2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03645597042558586,0.045543168727201065,0.029659627688326758
+2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1133.5740673542566,1398.1305919860497,910.8431706623652
+2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,55152.97766606748,61387.312361322096,49117.46778879713
+2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.036149986459006106,0.039817182604770525,0.032785956107979096
+2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1418.322280325089,1578.6453703098307,1263.1121993049067
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,376.9644113468207,454.31556365677534,309.1641204832304
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.023042247281005318,0.026321351476174534,0.020252117122164355
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,784.9660294224295,946.0370087306904,643.7831391789439
+2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4672.0958418532655,5972.47968915953,3661.144435666595
+2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04732265601795794,0.06003531864981239,0.037213188876558966
+2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1415.744273104876,1809.7881983535628,1109.4045249184662
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,991519.7317862989,1123457.9057324298,873517.6163366755
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02416444245398317,0.026486870121881303,0.022013223259174347
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,751.6285997138777,851.645272859935,662.1762550400233
+2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,17051.795915546074,21409.40016536071,12999.434859000587
+2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02112391681305349,0.02691438596274546,0.016600253245406676
+2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,890.9836228054023,1118.675417879747,679.2412730283527
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,24173.987283769322,29415.590006538252,20367.96597726506
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.027161465257807053,0.03090396758633379,0.023731624866428998
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,849.2972535481351,1033.448868438202,715.5814786279561
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,216149.83534156246,261670.2335627246,183129.29709632578
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.022102814839283922,0.02510082969040107,0.019628187498849647
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,842.5413910392002,1019.9776568467156,713.8289625423588
+2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,274855.6499600794,347131.87120329984,214057.46055519933
+2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02053137779073027,0.025766677171450116,0.016838783404075693
+2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,733.0759678633476,925.846103201932,570.9192446932216
+2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,13242.731401086574,15081.88744109697,11434.599194705064
+2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01590434892538882,0.017620332282985797,0.014415687680673896
+2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,699.1547238817611,796.2536224687584,603.6937396477492
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,38314.460450612685,43897.12715898916,33136.652512046865
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026874988954279082,0.03050900281193224,0.02407030468359272
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1069.9319278877638,1225.8279860287196,925.3415574430792
+2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,48707.492929657375,63898.46823339714,38576.026298942
+2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.017703614426925987,0.02279679353290838,0.014414422723776587
+2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,796.2960077912392,1044.646153964701,630.6614011659301
+2,DALYs (Disability-Adjusted Life Years),369,Nauru,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,144.04571358384501,197.78891653708473,106.18010515804443
+2,DALYs (Disability-Adjusted Life Years),369,Nauru,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.023821114882789426,0.03190326388749952,0.01781915127618893
+2,DALYs (Disability-Adjusted Life Years),369,Nauru,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1168.129237071905,1603.9562054809758,861.0605768444854
+2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,691562.479267439,861444.4884453658,553933.2989664444
+2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.020737455827163877,0.025716041725930464,0.017379761648777227
+2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,629.9425302527378,784.6876269203918,504.5764546275002
+2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,5373.340116097584,6243.669693262992,4576.012587581266
+2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03678758748934934,0.041488350271125664,0.0333728148676797
+2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,965.0357548238838,1121.3443342732246,821.8381241698196
+2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,606429.8250848112,691497.5412927902,537528.5244130088
+2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04980497586550916,0.05434191502417181,0.045263005291868955
+2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1579.1462661608223,1800.6630202252725,1399.7269381713338
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,171750.31618154465,187076.6986304085,156848.10153657888
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04398173010290802,0.047459229806431955,0.04052828144611674
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1784.1574877890087,1943.3693053553557,1629.351962916783
+2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,94804.48879748493,121296.38075014322,72700.47891466795
+2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013843882533678522,0.017493106055219018,0.010861378559536276
+2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,666.8810666876109,853.2323817788257,511.3953309835273
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,401746.805691582,517409.7458733558,297857.5516065751
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.016602870605631197,0.02098683412279051,0.012608090799864384
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,614.0851155004226,790.8802734815158,455.2864799164456
+2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,165997.0640150709,213276.74737928968,129320.77396514772
+2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.010992743373617738,0.014154372441811789,0.00858487092126371
+2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,685.1377414099288,880.2803221955528,533.7596994114363
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,55421.25110217153,67664.84997131526,45339.44067463086
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03577644720623266,0.04339520464991797,0.03094033641874047
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,971.5354495487946,1186.1659404682357,794.8011458079926
+2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,31166.727183661635,42337.62891689168,25815.190040155365
+2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04215683561798277,0.05774250821134588,0.03527861769351753
+2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1285.217073668753,1745.8696648509742,1064.5366388359187
+2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,16746.3449996104,20162.858926705114,13988.278553284097
+2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.047231233889596685,0.05769517513550888,0.04029993179548617
+2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1224.1177599384953,1473.8567552435106,1022.5097003817973
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,856.4775299321066,1045.4295704616463,687.9999332764132
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02053032462913324,0.02371438226979218,0.01745548673151235
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,737.761203871777,900.5226074384911,592.6362820959761
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,27146.6372710488,30730.362525918987,24043.35535084242
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01961968221868976,0.021279927163499024,0.01808680658455082
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,752.2605811761592,851.5692069955132,666.2655226523698
+2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,94559.09598663909,122399.59415523689,73954.4988678503
+2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.011326068959588414,0.014654747985739602,0.008874230865867729
+2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,662.4223016273177,857.4555417705984,518.0792904646453
+2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,16351.441342634753,21210.29203893863,12764.580858889192
+2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.033219754026460636,0.042213132507935014,0.026849499722278375
+2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1139.678595953726,1478.335477844244,889.6781198893724
+2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,305919.05549863866,390916.45481805434,242864.3162314717
+2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.022802474552549433,0.029069718748201658,0.018235399946793816
+2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,692.4773927988387,884.8772332711906,549.7468872402115
+2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,234533.77924602714,305241.05305347126,176405.91787128602
+2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013199971226800257,0.016845966089923458,0.010100880515946514
+2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,692.2436879564177,900.9414036678256,520.6750326419116
+2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,11127.197818988698,14823.358715276543,8494.439573677348
+2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014347959761212246,0.018577729137671757,0.011224044673965356
+2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,684.1693280810864,911.432288444514,522.2909765862704
+2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,13073.39320189904,14916.940426143788,11660.296180863203
+2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.026732001309453652,0.029312545890976555,0.024338629568715693
+2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1025.7714239986194,1170.420791780776,914.8962654892294
+2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,197502.23764999927,275725.29434040847,136517.062915325
+2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.009265625747724833,0.013014565725339475,0.006416267147871992
+2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,741.3758414128018,1035.0063600426938,512.4521807464891
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,81407.27374876746,94798.08007724523,69514.63143416992
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05518853133013354,0.06132822654377775,0.04985238344294831
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1590.2624113280465,1851.8470951152788,1357.9438337198615
+2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,4145384.27090643,5733100.625154387,3240220.5955997277
+2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.07453389462575417,0.1031509146336007,0.05801928421515479
+2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,2384.3589767687617,3297.5881237944727,1863.7232543317132
+2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,85573.5025155281,98693.86938271475,75861.66070224444
+2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05731435430844143,0.0636318380719265,0.05202565475621566
+2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1564.1343747782676,1803.9517975014367,1386.6188451339208
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,573.1283767294133,702.3044963221523,462.442283557491
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03408353821028308,0.04193836196308345,0.02866725931260332
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1209.540038094314,1482.1555548912495,975.9461928276282
+2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,12837.965172368238,15075.116453027857,11190.002306652632
+2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02333984664453327,0.02599371570977794,0.021144567194845455
+2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,925.5408076672077,1086.8260873338052,806.7325026701776
+2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3369.16158693235,4271.082223234077,2634.099603041662
+2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04848978024968252,0.0612437024701185,0.03778625537644649
+2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1517.6366796443774,1923.906252789425,1186.5284796424896
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,49218.435820919076,56099.895277136064,42674.82815927529
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.040757046576284796,0.04462168116322478,0.036850999674228814
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1493.2708629384595,1702.052038712714,1294.7399974882326
+2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,135303.58404192922,176672.6714413766,100699.91510715557
+2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01807255682131496,0.023805013456256068,0.013767250685945615
+2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1002.8614548370414,1309.4864675331864,746.3812882815683
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,117367.93783760427,132315.46019367903,101815.79513585826
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02242607627119242,0.0245505127190956,0.02057642415167467
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,660.9757555846246,745.1550473524925,573.3914505125724
+2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,198548.41684744888,233154.70622646558,173728.984028476
+2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.05027833902579542,0.05625227443888148,0.04559621071697161
+2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1754.7254014745608,2060.567855362251,1535.3769427502336
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,192009.4476154867,224596.88876976058,165153.203595952
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.037181822977423166,0.04188016944523358,0.032917429077863415
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1002.5176870978579,1172.662888493592,862.296151267411
+2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,350006.0427282798,399340.3526221842,308138.51188982
+2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.025458593436240524,0.02772160236111592,0.023298697660440553
+2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,896.9740677324719,1023.4050181222719,789.6785217774476
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,30000.526804942074,34291.67837395374,26002.11431907458
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.016411375338331338,0.018173477155315823,0.014829463392130553
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,534.854560553814,611.3579500321434,463.5701738846689
+2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,116941.58760507152,157342.00352968834,90396.44849209723
+2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.011677303257994329,0.015755889834543076,0.00906385421218693
+2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,564.117846577115,759.0065606689897,436.06599590383456
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,89068.19382801643,108926.79354430149,73482.21379160324
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02438113860756202,0.029978774064548755,0.020837889010883716
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,794.3346944285043,971.439158541388,655.3346298993106
+2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,65974.37494938665,87871.96512296138,51211.010236091635
+2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.009248638050898818,0.01187174390703707,0.007240401894021003
+2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,669.6788936284952,891.9523743824958,519.8220173031318
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,226479.70939856503,257335.5073667714,196448.1825208554
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03072350154172967,0.033905643820305406,0.026800077927913175
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,975.5225269672751,1108.4285876712138,846.1668726959577
+2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,60088.07000307663,78144.75387171669,45325.912754312405
+2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.014607743259551227,0.018668499311114584,0.011392365524383325
+2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,702.3875028581476,913.4575054683784,529.8282117005537
+2,DALYs (Disability-Adjusted Life Years),205,Côte d'Ivoire,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,204133.67744383786,261137.7371531825,157544.93979751808
+2,DALYs (Disability-Adjusted Life Years),205,Côte d'Ivoire,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.011892610590596367,0.015090282450140095,0.009312898203026873
+2,DALYs (Disability-Adjusted Life Years),205,Côte d'Ivoire,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,603.3021173301692,771.7734364662527,465.61251893699193
+2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,112403.30326324179,127389.87836346,99919.74743459016
+2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03204821572863372,0.03576760621572879,0.0283330551114383
+2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1252.4843919837167,1419.476382942876,1113.3829743391982
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,3731.7575442963202,4682.934833254859,3030.4439417447056
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03497041334826107,0.04326351417250961,0.029707038691783684
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,811.4481095216591,1018.2758585872497,658.9517079689583
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,2456355.078691831,2829842.5432936996,2148624.574232601
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03521490188032562,0.03848342636341443,0.03222258681798383
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1158.2454021004655,1334.355990659045,1013.141200770672
+2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,262135.2977426559,329056.3431515464,199897.69843590911
+2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02190859275082737,0.027343194665194977,0.01726489419051527
+2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,710.3034682518854,891.638263917758,541.6593252313115
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,58518.27898898398,71147.27698770331,47346.57887090671
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04161900645901456,0.04741760193253268,0.03647928487524213
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1123.8118132956085,1366.344871106814,909.2653709838902
+2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,28876.745132594253,40168.16295349671,20518.119275019108
+2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.02392127700524547,0.033085641004071985,0.017323463476354176
+2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1504.761185245508,2093.15462035275,1069.1949296057219
+2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,193774.80623698453,238712.28898391745,153013.6546453409
+2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.01370367248663328,0.01668106722118965,0.01098251482789343
+2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,582.5323689128462,717.6249476949207,459.99481794114627
+2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,68727.7035634845,79708.14829371651,59965.184264713054
+2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.03739086958245802,0.040780463854497566,0.03405281407535815
+2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1237.6908323684922,1435.4334466751607,1079.889985807055
+2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,23442.53404935167,26446.0184130386,20610.565418055623
+2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.033906451626291176,0.037997818457986034,0.03052513605021113
+2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1107.6665081578285,1249.5820122764521,973.8551719585771
+2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,753989.8217978417,894460.2264460868,650906.3407795932
+2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.025177515388564654,0.029408360047778845,0.022409437754712068
+2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,1176.9064815931622,1396.167438337031,1016.0029608184609
+2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2023,15819.976341015126,20765.849009734113,12293.907831380544
+2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.013282880847151254,0.017253959270437852,0.010479277078186605
+2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,22,All ages,508,Chronic respiratory diseases,3,Rate,2023,729.0340489730975,956.9553492112874,566.5417704056003
