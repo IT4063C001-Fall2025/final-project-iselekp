@@ -1,0 +1,186 @@
+Cancer id,Cancer label,Population code (ISO/UN),Population,Alpha‑3 code,Sex,Type,Prevalence (Prop. (W)) per 100 000
+40,All cancers excl. non-melanoma skin cancer,004,Afghanistan,AFG,0,2,52.53
+40,All cancers excl. non-melanoma skin cancer,008,Albania,ALB,0,2,109.75
+40,All cancers excl. non-melanoma skin cancer,012,Algeria,DZA,0,2,96.31
+40,All cancers excl. non-melanoma skin cancer,024,Angola,AGO,0,2,73.06
+40,All cancers excl. non-melanoma skin cancer,031,Azerbaijan,AZE,0,2,99.93
+40,All cancers excl. non-melanoma skin cancer,032,Argentina,ARG,0,2,161.79
+40,All cancers excl. non-melanoma skin cancer,036,Australia,AUS,0,2,281.33
+40,All cancers excl. non-melanoma skin cancer,040,Austria,AUT,0,2,201.37
+40,All cancers excl. non-melanoma skin cancer,044,Bahamas,BHS,0,2,151.41
+40,All cancers excl. non-melanoma skin cancer,048,Bahrain,BHR,0,2,89.67
+40,All cancers excl. non-melanoma skin cancer,050,Bangladesh,BGD,0,2,61.12
+40,All cancers excl. non-melanoma skin cancer,051,Armenia,ARM,0,2,134.07
+40,All cancers excl. non-melanoma skin cancer,052,Barbados,BRB,0,2,161.78
+40,All cancers excl. non-melanoma skin cancer,056,Belgium,BEL,0,2,258.42
+40,All cancers excl. non-melanoma skin cancer,064,Bhutan,BTN,0,2,58.87
+40,All cancers excl. non-melanoma skin cancer,068,Bolivia (Plurinational State of),BOL,0,2,91.16
+40,All cancers excl. non-melanoma skin cancer,070,Bosnia Herzegovina,BIH,0,2,148.7
+40,All cancers excl. non-melanoma skin cancer,072,Botswana,BWA,0,2,80.32
+40,All cancers excl. non-melanoma skin cancer,076,Brazil,BRA,0,2,142.2
+40,All cancers excl. non-melanoma skin cancer,084,Belize,BLZ,0,2,76.51
+40,All cancers excl. non-melanoma skin cancer,090,Solomon Islands,SLB,0,2,83.63
+40,All cancers excl. non-melanoma skin cancer,096,Brunei Darussalam,BRN,0,2,148.44
+40,All cancers excl. non-melanoma skin cancer,100,Bulgaria,BGR,0,2,159.71
+40,All cancers excl. non-melanoma skin cancer,104,Myanmar,MMR,0,2,73.38
+40,All cancers excl. non-melanoma skin cancer,108,Burundi,BDI,0,2,55.44
+40,All cancers excl. non-melanoma skin cancer,112,Belarus,BLR,0,2,202.41
+40,All cancers excl. non-melanoma skin cancer,116,Cambodia,KHM,0,2,76.03
+40,All cancers excl. non-melanoma skin cancer,120,Cameroon,CMR,0,2,67.98
+40,All cancers excl. non-melanoma skin cancer,124,Canada,CAN,0,2,248.79
+40,All cancers excl. non-melanoma skin cancer,132,Cape Verde,CPV,0,2,56.61
+40,All cancers excl. non-melanoma skin cancer,140,Central African Republic,CAF,0,2,38.57
+40,All cancers excl. non-melanoma skin cancer,144,Sri Lanka,LKA,0,2,74.09
+40,All cancers excl. non-melanoma skin cancer,148,Chad,TCD,0,2,50.56
+40,All cancers excl. non-melanoma skin cancer,152,Chile,CHL,0,2,137.6
+40,All cancers excl. non-melanoma skin cancer,156,China,CHN,0,2,132.24
+40,All cancers excl. non-melanoma skin cancer,170,Colombia,COL,0,2,120.9
+40,All cancers excl. non-melanoma skin cancer,174,Comoros,COM,0,2,65.2
+40,All cancers excl. non-melanoma skin cancer,178,"Congo, Republic of",COG,0,2,46.08
+40,All cancers excl. non-melanoma skin cancer,180,"Congo, Democratic Republic of",COD,0,2,48.03
+40,All cancers excl. non-melanoma skin cancer,188,Costa Rica,CRI,0,2,118.11
+40,All cancers excl. non-melanoma skin cancer,191,Croatia,HRV,0,2,238.77
+40,All cancers excl. non-melanoma skin cancer,192,Cuba,CUB,0,2,144.35
+40,All cancers excl. non-melanoma skin cancer,196,Cyprus,CYP,0,2,235.23
+40,All cancers excl. non-melanoma skin cancer,203,Czechia,CZE,0,2,221.41
+40,All cancers excl. non-melanoma skin cancer,204,Benin,BEN,0,2,53.25
+40,All cancers excl. non-melanoma skin cancer,208,Denmark,DNK,0,2,302.22
+40,All cancers excl. non-melanoma skin cancer,214,Dominican Republic,DOM,0,2,113.85
+40,All cancers excl. non-melanoma skin cancer,218,Ecuador,ECU,0,2,100.96
+40,All cancers excl. non-melanoma skin cancer,222,El Salvador,SLV,0,2,76.58
+40,All cancers excl. non-melanoma skin cancer,226,Equatorial Guinea,GNQ,0,2,67.27
+40,All cancers excl. non-melanoma skin cancer,231,Ethiopia,ETH,0,2,49.45
+40,All cancers excl. non-melanoma skin cancer,232,Eritrea,ERI,0,2,41.69
+40,All cancers excl. non-melanoma skin cancer,233,Estonia,EST,0,2,227.47
+40,All cancers excl. non-melanoma skin cancer,242,Fiji,FJI,0,2,126.24
+40,All cancers excl. non-melanoma skin cancer,246,Finland,FIN,0,2,232.25
+40,All cancers excl. non-melanoma skin cancer,250,France (metropolitan),FRA,0,2,260.42
+40,All cancers excl. non-melanoma skin cancer,254,French Guyana,GUF,0,2,162.13
+40,All cancers excl. non-melanoma skin cancer,258,French Polynesia,PYF,0,2,172.86
+40,All cancers excl. non-melanoma skin cancer,262,Djibouti,DJI,0,2,51.81
+40,All cancers excl. non-melanoma skin cancer,266,Gabon,GAB,0,2,76.35
+40,All cancers excl. non-melanoma skin cancer,268,Georgia,GEO,0,2,140.89
+40,All cancers excl. non-melanoma skin cancer,270,The Republic of the Gambia,GMB,0,2,39.94
+40,All cancers excl. non-melanoma skin cancer,275,Gaza Strip and West Bank,PSE,0,2,97.22
+40,All cancers excl. non-melanoma skin cancer,276,Germany,DEU,0,2,212.07
+40,All cancers excl. non-melanoma skin cancer,288,Ghana,GHA,0,2,69.56
+40,All cancers excl. non-melanoma skin cancer,300,Greece,GRC,0,2,203.78
+40,All cancers excl. non-melanoma skin cancer,312,"France, Guadeloupe",GLP,0,2,176.57
+40,All cancers excl. non-melanoma skin cancer,316,Guam,GUM,0,2,132.2
+40,All cancers excl. non-melanoma skin cancer,320,Guatemala,GTM,0,2,71.6
+40,All cancers excl. non-melanoma skin cancer,324,Guinea,GIN,0,2,54.69
+40,All cancers excl. non-melanoma skin cancer,328,Guyana,GUY,0,2,88.57
+40,All cancers excl. non-melanoma skin cancer,332,Haiti,HTI,0,2,67.4
+40,All cancers excl. non-melanoma skin cancer,340,Honduras,HND,0,2,75.21
+40,All cancers excl. non-melanoma skin cancer,348,Hungary,HUN,0,2,250.24
+40,All cancers excl. non-melanoma skin cancer,352,Iceland,ISL,0,2,225.51
+40,All cancers excl. non-melanoma skin cancer,356,India,IND,0,2,58.98
+40,All cancers excl. non-melanoma skin cancer,360,Indonesia,IDN,0,2,84.54
+40,All cancers excl. non-melanoma skin cancer,364,"Iran, Islamic Republic of",IRN,0,2,98.53
+40,All cancers excl. non-melanoma skin cancer,368,Iraq,IRQ,0,2,84.65
+40,All cancers excl. non-melanoma skin cancer,372,Ireland,IRL,0,2,268.19
+40,All cancers excl. non-melanoma skin cancer,376,Israel,ISR,0,2,204.98
+40,All cancers excl. non-melanoma skin cancer,380,Italy,ITA,0,2,223.33
+40,All cancers excl. non-melanoma skin cancer,384,"Côte d'Ivoire",CIV,0,2,69.64
+40,All cancers excl. non-melanoma skin cancer,388,Jamaica,JAM,0,2,135.42
+40,All cancers excl. non-melanoma skin cancer,392,Japan,JPN,0,2,215.75
+40,All cancers excl. non-melanoma skin cancer,398,Kazakhstan,KAZ,0,2,110.87
+40,All cancers excl. non-melanoma skin cancer,400,Jordan,JOR,0,2,102.36
+40,All cancers excl. non-melanoma skin cancer,404,Kenya,KEN,0,2,84.18
+40,All cancers excl. non-melanoma skin cancer,408,"Korea, Democratic People Republic of",PRK,0,2,92.85
+40,All cancers excl. non-melanoma skin cancer,410,"Korea, Republic of",KOR,0,2,188.93
+40,All cancers excl. non-melanoma skin cancer,414,Kuwait,KWT,0,2,80.9
+40,All cancers excl. non-melanoma skin cancer,417,Kyrgyzstan,KGZ,0,2,75.19
+40,All cancers excl. non-melanoma skin cancer,418,"Lao People's Democratic Republic",LAO,0,2,88.14
+40,All cancers excl. non-melanoma skin cancer,422,Lebanon,LBN,0,2,111.31
+40,All cancers excl. non-melanoma skin cancer,426,Lesotho,LSO,0,2,60.31
+40,All cancers excl. non-melanoma skin cancer,428,Latvia,LVA,0,2,222.44
+40,All cancers excl. non-melanoma skin cancer,430,Liberia,LBR,0,2,53.21
+40,All cancers excl. non-melanoma skin cancer,434,Libya,LBY,0,2,84.17
+40,All cancers excl. non-melanoma skin cancer,440,Lithuania,LTU,0,2,232.95
+40,All cancers excl. non-melanoma skin cancer,442,Luxembourg,LUX,0,2,209.14
+40,All cancers excl. non-melanoma skin cancer,450,Madagascar,MDG,0,2,59.09
+40,All cancers excl. non-melanoma skin cancer,454,Malawi,MWI,0,2,77.11
+40,All cancers excl. non-melanoma skin cancer,458,Malaysia,MYS,0,2,105.95
+40,All cancers excl. non-melanoma skin cancer,462,Maldives,MDV,0,2,77.55
+40,All cancers excl. non-melanoma skin cancer,466,Mali,MLI,0,2,61.46
+40,All cancers excl. non-melanoma skin cancer,470,Malta,MLT,0,2,227.55
+40,All cancers excl. non-melanoma skin cancer,474,"France, Martinique",MTQ,0,2,179.29
+40,All cancers excl. non-melanoma skin cancer,478,Mauritania,MRT,0,2,56.62
+40,All cancers excl. non-melanoma skin cancer,480,Mauritius,MUS,0,2,102.98
+40,All cancers excl. non-melanoma skin cancer,484,Mexico,MEX,0,2,97.85
+40,All cancers excl. non-melanoma skin cancer,496,Mongolia,MNG,0,2,138.28
+40,All cancers excl. non-melanoma skin cancer,498,Republic of Moldova,MDA,0,2,146.88
+40,All cancers excl. non-melanoma skin cancer,499,Montenegro,MNE,0,2,169.33
+40,All cancers excl. non-melanoma skin cancer,504,Morocco,MAR,0,2,94.87
+40,All cancers excl. non-melanoma skin cancer,508,Mozambique,MOZ,0,2,58.28
+40,All cancers excl. non-melanoma skin cancer,512,Oman,OMN,0,2,76.94
+40,All cancers excl. non-melanoma skin cancer,516,Namibia,NAM,0,2,111.17
+40,All cancers excl. non-melanoma skin cancer,524,Nepal,NPL,0,2,44.85
+40,All cancers excl. non-melanoma skin cancer,528,The Netherlands,NLD,0,2,270.37
+40,All cancers excl. non-melanoma skin cancer,540,New Caledonia,NCL,0,2,228.31
+40,All cancers excl. non-melanoma skin cancer,548,Vanuatu,VUT,0,2,77.79
+40,All cancers excl. non-melanoma skin cancer,554,New Zealand,NZL,0,2,255.56
+40,All cancers excl. non-melanoma skin cancer,558,Nicaragua,NIC,0,2,79.48
+40,All cancers excl. non-melanoma skin cancer,562,Niger,NER,0,2,33.52
+40,All cancers excl. non-melanoma skin cancer,566,Nigeria,NGA,0,2,57.3
+40,All cancers excl. non-melanoma skin cancer,578,Norway,NOR,0,2,303.88
+40,All cancers excl. non-melanoma skin cancer,586,Pakistan,PAK,0,2,54.98
+40,All cancers excl. non-melanoma skin cancer,591,Panama,PAN,0,2,113.74
+40,All cancers excl. non-melanoma skin cancer,598,Papua New Guinea,PNG,0,2,93.98
+40,All cancers excl. non-melanoma skin cancer,600,Paraguay,PRY,0,2,125.58
+40,All cancers excl. non-melanoma skin cancer,604,Peru,PER,0,2,115.94
+40,All cancers excl. non-melanoma skin cancer,608,Philippines,PHL,0,2,119.12
+40,All cancers excl. non-melanoma skin cancer,616,Poland,POL,0,2,203.51
+40,All cancers excl. non-melanoma skin cancer,620,Portugal,PRT,0,2,227.57
+40,All cancers excl. non-melanoma skin cancer,624,Guinea-Bissau,GNB,0,2,42.15
+40,All cancers excl. non-melanoma skin cancer,626,Timor-Leste,TLS,0,2,53.58
+40,All cancers excl. non-melanoma skin cancer,630,Puerto Rico,PRI,0,2,177.86
+40,All cancers excl. non-melanoma skin cancer,634,Qatar,QAT,0,2,65.04
+40,All cancers excl. non-melanoma skin cancer,638,"France, La Réunion",REU,0,2,153.97
+40,All cancers excl. non-melanoma skin cancer,642,Romania,ROU,0,2,202.59
+40,All cancers excl. non-melanoma skin cancer,643,Russian Federation,RUS,0,2,182.01
+40,All cancers excl. non-melanoma skin cancer,646,Rwanda,RWA,0,2,43.58
+40,All cancers excl. non-melanoma skin cancer,662,Saint Lucia,LCA,0,2,124.8
+40,All cancers excl. non-melanoma skin cancer,678,Sao Tome and Principe,STP,0,2,82.44
+40,All cancers excl. non-melanoma skin cancer,682,Saudi Arabia,SAU,0,2,66.85
+40,All cancers excl. non-melanoma skin cancer,686,Senegal,SEN,0,2,56.76
+40,All cancers excl. non-melanoma skin cancer,688,Serbia,SRB,0,2,177.64
+40,All cancers excl. non-melanoma skin cancer,694,Sierra Leone,SLE,0,2,43.39
+40,All cancers excl. non-melanoma skin cancer,702,Singapore,SGP,0,2,188.11
+40,All cancers excl. non-melanoma skin cancer,703,Slovakia,SVK,0,2,215.71
+40,All cancers excl. non-melanoma skin cancer,704,Viet Nam,VNM,0,2,94.6
+40,All cancers excl. non-melanoma skin cancer,705,Slovenia,SVN,0,2,247.28
+40,All cancers excl. non-melanoma skin cancer,706,Somalia,SOM,0,2,37.79
+40,All cancers excl. non-melanoma skin cancer,710,South Africa,ZAF,0,2,119.08
+40,All cancers excl. non-melanoma skin cancer,716,Zimbabwe,ZWE,0,2,110.92
+40,All cancers excl. non-melanoma skin cancer,724,Spain,ESP,0,2,220.29
+40,All cancers excl. non-melanoma skin cancer,728,South Sudan,SSD,0,2,42.12
+40,All cancers excl. non-melanoma skin cancer,729,Sudan,SDN,0,2,46.18
+40,All cancers excl. non-melanoma skin cancer,740,Suriname,SUR,0,2,118.51
+40,All cancers excl. non-melanoma skin cancer,748,Eswatini,SWZ,0,2,85.03
+40,All cancers excl. non-melanoma skin cancer,752,Sweden,SWE,0,2,257.41
+40,All cancers excl. non-melanoma skin cancer,756,Switzerland,CHE,0,2,222.76
+40,All cancers excl. non-melanoma skin cancer,760,Syrian Arab Republic,SYR,0,2,73.09
+40,All cancers excl. non-melanoma skin cancer,762,Tajikistan,TJK,0,2,54.51
+40,All cancers excl. non-melanoma skin cancer,764,Thailand,THA,0,2,104
+40,All cancers excl. non-melanoma skin cancer,768,Togo,TGO,0,2,52.36
+40,All cancers excl. non-melanoma skin cancer,780,Trinidad and Tobago,TTO,0,2,138.79
+40,All cancers excl. non-melanoma skin cancer,784,United Arab Emirates,ARE,0,2,83.23
+40,All cancers excl. non-melanoma skin cancer,788,Tunisia,TUN,0,2,88.37
+40,All cancers excl. non-melanoma skin cancer,792,Türkiye,TUR,0,2,158.91
+40,All cancers excl. non-melanoma skin cancer,795,Turkmenistan,TKM,0,2,76.22
+40,All cancers excl. non-melanoma skin cancer,800,Uganda,UGA,0,2,81.58
+40,All cancers excl. non-melanoma skin cancer,804,Ukraine,UKR,0,2,139.81
+40,All cancers excl. non-melanoma skin cancer,807,North Macedonia,MKD,0,2,140.28
+40,All cancers excl. non-melanoma skin cancer,818,Egypt,EGY,0,2,104.77
+40,All cancers excl. non-melanoma skin cancer,826,United Kingdom,GBR,0,2,246.85
+40,All cancers excl. non-melanoma skin cancer,834,"Tanzania, United Republic of",TZA,0,2,70.89
+40,All cancers excl. non-melanoma skin cancer,840,United States of America,USA,0,2,259.12
+40,All cancers excl. non-melanoma skin cancer,854,Burkina Faso,BFA,0,2,58.95
+40,All cancers excl. non-melanoma skin cancer,858,Uruguay,URY,0,2,194.28
+40,All cancers excl. non-melanoma skin cancer,860,Uzbekistan,UZB,0,2,73.44
+40,All cancers excl. non-melanoma skin cancer,862,Venezuela,VEN,0,2,113.3
+40,All cancers excl. non-melanoma skin cancer,882,Samoa,WSM,0,2,174.99
+40,All cancers excl. non-melanoma skin cancer,887,Yemen,YEM,0,2,39.73
+40,All cancers excl. non-melanoma skin cancer,894,Zambia,ZMB,0,2,83.92

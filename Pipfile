@@ -8,6 +8,14 @@ ipykernel = "*"
 jupyter = "*"
 notebook = "*"
 black = "*"
+pillow = "*"
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
+google-cloud-bigquery = "*"
+requests = "*"
+bs4 = "*"
+lxml = "*"
 
 [dev-packages]
 
