@@ -16,6 +16,7 @@ google-cloud-bigquery = "*"
 requests = "*"
 bs4 = "*"
 lxml = "*"
+openpyxl = "*"
 
 [dev-packages]
 
