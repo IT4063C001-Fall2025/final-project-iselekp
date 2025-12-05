@@ -17,6 +17,7 @@ requests = "*"
 bs4 = "*"
 lxml = "*"
 openpyxl = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
