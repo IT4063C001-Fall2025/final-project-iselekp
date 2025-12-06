@@ -12,19 +12,23 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 9 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 69 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
+I was able to join all the data I found and analyze how it all related.
 #### What did not go well?
+I had trouble with pandas.merge() at one point and had to join the data in a spreadsheet instead.
 #### What did you learn?
+I learned how to go from a question to a full analysis of data modeling that question. 
 #### What would you do differently next time?
+I would try to find more complete data next time.
 
 ---
 
