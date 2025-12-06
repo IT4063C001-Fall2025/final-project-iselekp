@@ -1,0 +1,186 @@
+,Population,Alpha‑3 code,Cancer id,Prevalence (Prop. (W)) per 100 000
+0,Afghanistan,AFG,15,3.9
+1,Albania,ALB,15,13.19
+2,Algeria,DZA,15,5.97
+3,Angola,AGO,15,1.31
+4,Azerbaijan,AZE,15,10.08
+5,Argentina,ARG,15,10.56
+6,Australia,AUS,15,12.7
+7,Austria,AUT,15,14.87
+8,Bahamas,BHS,15,4.71
+9,Bahrain,BHR,15,4.76
+10,Bangladesh,BGD,15,4.66
+11,Armenia,ARM,15,15.25
+12,Barbados,BRB,15,5.17
+13,Belgium,BEL,15,17.53
+14,Bhutan,BTN,15,4.03
+15,Bolivia (Plurinational State of),BOL,15,4.29
+16,Bosnia Herzegovina,BIH,15,19.61
+17,Botswana,BWA,15,1.97
+18,Brazil,BRA,15,7.76
+19,Belize,BLZ,15,5.42
+20,Solomon Islands,SLB,15,4.25
+21,Brunei Darussalam,BRN,15,13.04
+22,Bulgaria,BGR,15,14.78
+23,Myanmar,MMR,15,8.53
+24,Burundi,BDI,15,1.82
+25,Belarus,BLR,15,13.93
+26,Cambodia,KHM,15,8.47
+27,Cameroon,CMR,15,1.62
+28,Canada,CAN,15,16.92
+29,Cape Verde,CPV,15,1.63
+30,Central African Republic,CAF,15,1.12
+31,Sri Lanka,LKA,15,3.51
+32,Chad,TCD,15,1.11
+33,Chile,CHL,15,6.58
+34,China,CHN,15,21.88
+35,Colombia,COL,15,5.2
+36,Comoros,COM,15,1.57
+37,"Congo, Republic of",COG,15,0.77
+38,"Congo, Democratic Republic of",COD,15,1.16
+39,Costa Rica,CRI,15,3.56
+40,Croatia,HRV,15,19.71
+41,Cuba,CUB,15,15.7
+42,Cyprus,CYP,15,14.23
+43,Czechia,CZE,15,12.57
+44,Benin,BEN,15,0.74
+45,Denmark,DNK,15,18.29
+46,Dominican Republic,DOM,15,6.77
+47,Ecuador,ECU,15,3.25
+48,El Salvador,SLV,15,2.49
+49,Equatorial Guinea,GNQ,15,2.44
+50,Ethiopia,ETH,15,2.02
+51,Eritrea,ERI,15,1.78
+52,Estonia,EST,15,13.71
+53,Fiji,FJI,15,3.63
+54,Finland,FIN,15,10.02
+55,France (metropolitan),FRA,15,19.61
+56,French Guyana,GUF,15,8.27
+57,French Polynesia,PYF,15,21.21
+58,Djibouti,DJI,15,1.95
+59,Gabon,GAB,15,1.72
+60,Georgia,GEO,15,11.71
+61,The Republic of the Gambia,GMB,15,2.66
+62,Gaza Strip and West Bank,PSE,15,10.53
+63,Germany,DEU,15,14.99
+64,Ghana,GHA,15,1.4
+65,Greece,GRC,15,16.4
+66,"France, Guadeloupe",GLP,15,6.37
+67,Guam,GUM,15,17.1
+68,Guatemala,GTM,15,1.98
+69,Guinea,GIN,15,1.88
+70,Guyana,GUY,15,2.46
+71,Haiti,HTI,15,3.29
+72,Honduras,HND,15,3.56
+73,Hungary,HUN,15,25.8
+74,Iceland,ISL,15,14.46
+75,India,IND,15,3.09
+76,Indonesia,IDN,15,6.81
+77,"Iran, Islamic Republic of",IRN,15,6.45
+78,Iraq,IRQ,15,6.42
+79,Ireland,IRL,15,16.6
+80,Israel,ISR,15,12.0
+81,Italy,ITA,15,12.9
+82,Côte d'Ivoire,CIV,15,1.28
+83,Jamaica,JAM,15,7.41
+84,Japan,JPN,15,15.71
+85,Kazakhstan,KAZ,15,10.52
+86,Jordan,JOR,15,7.6
+87,Kenya,KEN,15,1.87
+88,"Korea, Democratic People Republic of",PRK,15,20.62
+89,"Korea, Republic of",KOR,15,13.67
+90,Kuwait,KWT,15,3.27
+91,Kyrgyzstan,KGZ,15,7.47
+92,Lao People's Democratic Republic,LAO,15,9.46
+93,Lebanon,LBN,15,10.56
+94,Lesotho,LSO,15,2.32
+95,Latvia,LVA,15,12.48
+96,Liberia,LBR,15,1.45
+97,Libya,LBY,15,8.22
+98,Lithuania,LTU,15,13.0
+99,Luxembourg,LUX,15,13.19
+100,Madagascar,MDG,15,1.13
+101,Malawi,MWI,15,0.81
+102,Malaysia,MYS,15,8.14
+103,Maldives,MDV,15,6.89
+104,Mali,MLI,15,1.77
+105,Malta,MLT,15,9.96
+106,"France, Martinique",MTQ,15,5.14
+107,Mauritania,MRT,15,1.05
+108,Mauritius,MUS,15,4.44
+109,Mexico,MEX,15,2.81
+110,Mongolia,MNG,15,9.86
+111,Republic of Moldova,MDA,15,12.05
+112,Montenegro,MNE,15,19.94
+113,Morocco,MAR,15,10.76
+114,Mozambique,MOZ,15,0.74
+115,Oman,OMN,15,2.81
+116,Namibia,NAM,15,3.02
+117,Nepal,NPL,15,4.83
+118,The Netherlands,NLD,15,18.82
+119,New Caledonia,NCL,15,22.85
+120,Vanuatu,VUT,15,4.95
+121,New Zealand,NZL,15,13.2
+122,Nicaragua,NIC,15,2.88
+123,Niger,NER,15,0.5
+124,Nigeria,NGA,15,0.92
+125,Norway,NOR,15,14.73
+126,Pakistan,PAK,15,3.08
+127,Panama,PAN,15,3.27
+128,Papua New Guinea,PNG,15,5.69
+129,Paraguay,PRY,15,6.53
+130,Peru,PER,15,3.61
+131,Philippines,PHL,15,12.75
+132,Poland,POL,15,19.47
+133,Portugal,PRT,15,12.77
+134,Guinea-Bissau,GNB,15,1.53
+135,Timor-Leste,TLS,15,5.39
+136,Puerto Rico,PRI,15,5.43
+137,Qatar,QAT,15,2.77
+138,"France, La Réunion",REU,15,11.59
+139,Romania,ROU,15,16.42
+140,Russian Federation,RUS,15,13.98
+141,Rwanda,RWA,15,1.57
+142,Saint Lucia,LCA,15,5.38
+143,Sao Tome and Principe,STP,15,10.47
+144,Saudi Arabia,SAU,15,2.31
+145,Senegal,SEN,15,1.54
+146,Serbia,SRB,15,22.02
+147,Sierra Leone,SLE,15,1.06
+148,Singapore,SGP,15,12.52
+149,Slovakia,SVK,15,11.88
+150,Viet Nam,VNM,15,11.03
+151,Slovenia,SVN,15,18.31
+152,Somalia,SOM,15,1.88
+153,South Africa,ZAF,15,9.58
+154,Zimbabwe,ZWE,15,3.06
+155,Spain,ESP,15,14.84
+156,South Sudan,SSD,15,1.12
+157,Sudan,SDN,15,1.33
+158,Suriname,SUR,15,8.8
+159,Eswatini,SWZ,15,2.75
+160,Sweden,SWE,15,9.35
+161,Switzerland,CHE,15,12.81
+162,Syrian Arab Republic,SYR,15,9.44
+163,Tajikistan,TJK,15,2.92
+164,Thailand,THA,15,9.72
+165,Togo,TGO,15,1.01
+166,Trinidad and Tobago,TTO,15,6.2
+167,United Arab Emirates,ARE,15,3.16
+168,Tunisia,TUN,15,10.76
+169,Türkiye,TUR,15,20.09
+170,Turkmenistan,TKM,15,5.15
+171,Uganda,UGA,15,1.63
+172,Ukraine,UKR,15,11.11
+173,North Macedonia,MKD,15,16.77
+174,Egypt,EGY,15,4.65
+175,United Kingdom,GBR,15,15.82
+176,"Tanzania, United Republic of",TZA,15,1.39
+177,United States of America,USA,15,17.05
+178,Burkina Faso,BFA,15,2.03
+179,Uruguay,URY,15,16.0
+180,Uzbekistan,UZB,15,4.56
+181,Venezuela,VEN,15,8.41
+182,Samoa,WSM,15,18.22
+183,Yemen,YEM,15,2.38
+184,Zambia,ZMB,15,1.52

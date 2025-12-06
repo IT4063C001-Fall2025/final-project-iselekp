@@ -1,0 +1,409 @@
+,region,measure_name,cause_name,metric_name,year,val
+2,Morocco,Deaths,Chronic respiratory diseases,Rate,2023,19.88960071468677
+5,Samoa,Deaths,Chronic respiratory diseases,Rate,2023,49.341005695461575
+8,Bulgaria,Deaths,Chronic respiratory diseases,Rate,2023,30.661091194700724
+11,Nicaragua,Deaths,Chronic respiratory diseases,Rate,2023,21.0956559735467
+14,Palestine,Deaths,Chronic respiratory diseases,Rate,2023,8.980637372253902
+17,Greenland,Deaths,Chronic respiratory diseases,Rate,2023,77.00262788610905
+20,Croatia,Deaths,Chronic respiratory diseases,Rate,2023,45.67663457088619
+23,Oman,Deaths,Chronic respiratory diseases,Rate,2023,6.990440236320572
+26,Guam,Deaths,Chronic respiratory diseases,Rate,2023,26.487806535902948
+29,Czechia,Deaths,Chronic respiratory diseases,Rate,2023,39.07595137846436
+32,Qatar,Deaths,Chronic respiratory diseases,Rate,2023,2.1839451711963958
+35,Indonesia,Deaths,Chronic respiratory diseases,Rate,2023,36.46394020511103
+38,Angola,Deaths,Chronic respiratory diseases,Rate,2023,18.502290212153827
+41,Hungary,Deaths,Chronic respiratory diseases,Rate,2023,57.03165313552672
+44,Solomon Islands,Deaths,Chronic respiratory diseases,Rate,2023,42.39603552463457
+47,Malawi,Deaths,Chronic respiratory diseases,Rate,2023,11.230146036317931
+50,Argentina,Deaths,Chronic respiratory diseases,Rate,2023,37.84924300300458
+53,Finland,Deaths,Chronic respiratory diseases,Rate,2023,41.36558368879479
+56,Saudi Arabia,Deaths,Chronic respiratory diseases,Rate,2023,7.9553297412933555
+59,Central African Republic,Deaths,Chronic respiratory diseases,Rate,2023,26.429563696131552
+62,Haiti,Deaths,Chronic respiratory diseases,Rate,2023,17.895204069377666
+65,Chile,Deaths,Chronic respiratory diseases,Rate,2023,39.23786444895651
+68,Lao People's Democratic Republic,Deaths,Chronic respiratory diseases,Rate,2023,37.32645453086665
+71,Brunei Darussalam,Deaths,Chronic respiratory diseases,Rate,2023,25.78439029923553
+74,Burkina Faso,Deaths,Chronic respiratory diseases,Rate,2023,12.347011959331184
+77,Togo,Deaths,Chronic respiratory diseases,Rate,2023,14.545664728675211
+80,Congo,Deaths,Chronic respiratory diseases,Rate,2023,20.256653834954037
+83,Tonga,Deaths,Chronic respiratory diseases,Rate,2023,38.24471439524837
+86,Japan,Deaths,Chronic respiratory diseases,Rate,2023,61.36856734982376
+89,Israel,Deaths,Chronic respiratory diseases,Rate,2023,22.08105411421331
+92,Democratic Republic of the Congo,Deaths,Chronic respiratory diseases,Rate,2023,26.3984153108647
+95,Cameroon,Deaths,Chronic respiratory diseases,Rate,2023,14.451946763624775
+98,Fiji,Deaths,Chronic respiratory diseases,Rate,2023,47.155861805825126
+101,Tajikistan,Deaths,Chronic respiratory diseases,Rate,2023,17.278040875827752
+104,Mauritius,Deaths,Chronic respiratory diseases,Rate,2023,34.47877769378931
+107,Republic of Korea,Deaths,Chronic respiratory diseases,Rate,2023,34.97661772327359
+110,Uganda,Deaths,Chronic respiratory diseases,Rate,2023,10.214683616998236
+113,Uruguay,Deaths,Chronic respiratory diseases,Rate,2023,61.77034435354661
+116,Italy,Deaths,Chronic respiratory diseases,Rate,2023,55.51682640582431
+119,Equatorial Guinea,Deaths,Chronic respiratory diseases,Rate,2023,15.539466767479484
+122,Zambia,Deaths,Chronic respiratory diseases,Rate,2023,11.892301640386536
+125,Singapore,Deaths,Chronic respiratory diseases,Rate,2023,12.73992233382659
+128,Turkmenistan,Deaths,Chronic respiratory diseases,Rate,2023,9.289303402554594
+131,Luxembourg,Deaths,Chronic respiratory diseases,Rate,2023,37.50764089585008
+134,Jamaica,Deaths,Chronic respiratory diseases,Rate,2023,19.332137874521507
+137,Gabon,Deaths,Chronic respiratory diseases,Rate,2023,28.08028975589589
+140,Saint Lucia,Deaths,Chronic respiratory diseases,Rate,2023,29.37084112355353
+143,Sudan,Deaths,Chronic respiratory diseases,Rate,2023,17.506438873293153
+146,Panama,Deaths,Chronic respiratory diseases,Rate,2023,21.19157343632012
+149,China,Deaths,Chronic respiratory diseases,Rate,2023,73.15269435076938
+152,Bahamas,Deaths,Chronic respiratory diseases,Rate,2023,13.615058295330073
+155,El Salvador,Deaths,Chronic respiratory diseases,Rate,2023,29.6609768064656
+158,Malta,Deaths,Chronic respiratory diseases,Rate,2023,30.0584477810826
+161,Vanuatu,Deaths,Chronic respiratory diseases,Rate,2023,41.514630069557846
+164,Botswana,Deaths,Chronic respiratory diseases,Rate,2023,32.32968019053444
+167,Guatemala,Deaths,Chronic respiratory diseases,Rate,2023,14.160738835357874
+170,Barbados,Deaths,Chronic respiratory diseases,Rate,2023,20.61259969116904
+173,Netherlands,Deaths,Chronic respiratory diseases,Rate,2023,62.64230430121697
+176,Venezuela (Bolivarian Republic of),Deaths,Chronic respiratory diseases,Rate,2023,21.411200773609288
+179,Honduras,Deaths,Chronic respiratory diseases,Rate,2023,31.191731711285943
+182,Malaysia,Deaths,Chronic respiratory diseases,Rate,2023,20.74478460418343
+185,Lesotho,Deaths,Chronic respiratory diseases,Rate,2023,48.81885629399932
+188,Colombia,Deaths,Chronic respiratory diseases,Rate,2023,37.43901018499759
+191,Mexico,Deaths,Chronic respiratory diseases,Rate,2023,25.239760082683706
+194,Maldives,Deaths,Chronic respiratory diseases,Rate,2023,31.889383717757223
+197,Belize,Deaths,Chronic respiratory diseases,Rate,2023,20.287707061411705
+200,Norway,Deaths,Chronic respiratory diseases,Rate,2023,64.19131828004792
+203,Mali,Deaths,Chronic respiratory diseases,Rate,2023,14.245475397057824
+206,Saint Vincent and the Grenadines,Deaths,Chronic respiratory diseases,Rate,2023,14.620958234210866
+209,Monaco,Deaths,Chronic respiratory diseases,Rate,2023,68.55043099374709
+212,Iran (Islamic Republic of),Deaths,Chronic respiratory diseases,Rate,2023,21.623741924762268
+215,Uzbekistan,Deaths,Chronic respiratory diseases,Rate,2023,8.985099888794434
+218,Cabo Verde,Deaths,Chronic respiratory diseases,Rate,2023,18.636998256310694
+221,Myanmar,Deaths,Chronic respiratory diseases,Rate,2023,91.93780498167888
+224,Costa Rica,Deaths,Chronic respiratory diseases,Rate,2023,29.666767259664383
+227,Cuba,Deaths,Chronic respiratory diseases,Rate,2023,62.292015178637534
+230,Kiribati,Deaths,Chronic respiratory diseases,Rate,2023,36.40905896652757
+233,Mauritania,Deaths,Chronic respiratory diseases,Rate,2023,14.51794940346342
+236,Nauru,Deaths,Chronic respiratory diseases,Rate,2023,24.34846413847213
+239,Latvia,Deaths,Chronic respiratory diseases,Rate,2023,17.310058373604274
+242,Marshall Islands,Deaths,Chronic respiratory diseases,Rate,2023,32.7416036821179
+245,Dominica,Deaths,Chronic respiratory diseases,Rate,2023,30.055014096192163
+248,Suriname,Deaths,Chronic respiratory diseases,Rate,2023,26.033192534848126
+251,American Samoa,Deaths,Chronic respiratory diseases,Rate,2023,40.487644482145214
+254,Niger,Deaths,Chronic respiratory diseases,Rate,2023,14.68720103337382
+257,Syrian Arab Republic,Deaths,Chronic respiratory diseases,Rate,2023,23.38459646708626
+260,Brazil,Deaths,Chronic respiratory diseases,Rate,2023,34.86260602644696
+263,Chad,Deaths,Chronic respiratory diseases,Rate,2023,13.876000622803664
+266,Bermuda,Deaths,Chronic respiratory diseases,Rate,2023,27.593719191490624
+269,Micronesia (Federated States of),Deaths,Chronic respiratory diseases,Rate,2023,46.73865812230167
+272,Cook Islands,Deaths,Chronic respiratory diseases,Rate,2023,33.006699396058444
+275,Armenia,Deaths,Chronic respiratory diseases,Rate,2023,15.935816104277272
+278,Papua New Guinea,Deaths,Chronic respiratory diseases,Rate,2023,45.18210796626136
+281,Nigeria,Deaths,Chronic respiratory diseases,Rate,2023,11.706803265800112
+284,North Macedonia,Deaths,Chronic respiratory diseases,Rate,2023,42.86962510496218
+287,Lithuania,Deaths,Chronic respiratory diseases,Rate,2023,20.20400849443921
+290,Côte d'Ivoire,Deaths,Chronic respiratory diseases,Rate,2023,11.09170125211958
+293,Iraq,Deaths,Chronic respiratory diseases,Rate,2023,18.452455637243062
+296,Trinidad and Tobago,Deaths,Chronic respiratory diseases,Rate,2023,24.69569633148526
+299,Sao Tome and Principe,Deaths,Chronic respiratory diseases,Rate,2023,47.05953747285594
+302,Republic of Moldova,Deaths,Chronic respiratory diseases,Rate,2023,19.99875641663603
+305,Niue,Deaths,Chronic respiratory diseases,Rate,2023,65.71863116274906
+308,Paraguay,Deaths,Chronic respiratory diseases,Rate,2023,26.96954065968837
+311,Philippines,Deaths,Chronic respiratory diseases,Rate,2023,28.10693754804582
+314,Jordan,Deaths,Chronic respiratory diseases,Rate,2023,7.998820052258244
+317,Montenegro,Deaths,Chronic respiratory diseases,Rate,2023,20.75432622302932
+320,France,Deaths,Chronic respiratory diseases,Rate,2023,31.25896437473013
+323,Azerbaijan,Deaths,Chronic respiratory diseases,Rate,2023,17.12475834981701
+326,Tunisia,Deaths,Chronic respiratory diseases,Rate,2023,30.84825021517136
+329,Sri Lanka,Deaths,Chronic respiratory diseases,Rate,2023,75.89926540536484
+332,Kuwait,Deaths,Chronic respiratory diseases,Rate,2023,2.670685762621696
+335,Bosnia and Herzegovina,Deaths,Chronic respiratory diseases,Rate,2023,36.60024984576273
+338,Albania,Deaths,Chronic respiratory diseases,Rate,2023,45.240250469905554
+341,Germany,Deaths,Chronic respiratory diseases,Rate,2023,59.15429738918788
+344,Australia,Deaths,Chronic respiratory diseases,Rate,2023,45.88585688868088
+347,Russian Federation,Deaths,Chronic respiratory diseases,Rate,2023,24.12689350835348
+350,Georgia,Deaths,Chronic respiratory diseases,Rate,2023,28.77079097671089
+353,Algeria,Deaths,Chronic respiratory diseases,Rate,2023,20.6832920709354
+356,Lebanon,Deaths,Chronic respiratory diseases,Rate,2023,27.00354710019568
+359,Bolivia (Plurinational State of),Deaths,Chronic respiratory diseases,Rate,2023,20.81280471216177
+362,Poland,Deaths,Chronic respiratory diseases,Rate,2023,24.253119651435423
+365,Turkey,Deaths,Chronic respiratory diseases,Rate,2023,48.622135811787
+368,United Arab Emirates,Deaths,Chronic respiratory diseases,Rate,2023,4.081212162597662
+371,New Zealand,Deaths,Chronic respiratory diseases,Rate,2023,50.51889984224406
+374,Greece,Deaths,Chronic respiratory diseases,Rate,2023,49.72070239528762
+377,Libya,Deaths,Chronic respiratory diseases,Rate,2023,12.69357216329541
+380,Kazakhstan,Deaths,Chronic respiratory diseases,Rate,2023,70.50523023356057
+383,Romania,Deaths,Chronic respiratory diseases,Rate,2023,34.134867523434515
+386,Bahrain,Deaths,Chronic respiratory diseases,Rate,2023,14.061738469238389
+389,Northern Mariana Islands,Deaths,Chronic respiratory diseases,Rate,2023,33.71406393695107
+392,Burundi,Deaths,Chronic respiratory diseases,Rate,2023,12.169597193866604
+395,Ukraine,Deaths,Chronic respiratory diseases,Rate,2023,19.53838680242363
+398,Iceland,Deaths,Chronic respiratory diseases,Rate,2023,40.5756618107609
+401,Kyrgyzstan,Deaths,Chronic respiratory diseases,Rate,2023,14.407809583903711
+404,Egypt,Deaths,Chronic respiratory diseases,Rate,2023,13.51454846801724
+407,Portugal,Deaths,Chronic respiratory diseases,Rate,2023,68.34444487213008
+410,Yemen,Deaths,Chronic respiratory diseases,Rate,2023,11.177164252112613
+413,Serbia,Deaths,Chronic respiratory diseases,Rate,2023,40.90439949314334
+416,Spain,Deaths,Chronic respiratory diseases,Rate,2023,61.82357717716468
+419,Ireland,Deaths,Chronic respiratory diseases,Rate,2023,53.73810279585045
+422,Mongolia,Deaths,Chronic respiratory diseases,Rate,2023,12.493424098233636
+425,Slovakia,Deaths,Chronic respiratory diseases,Rate,2023,21.133291276519792
+428,Palau,Deaths,Chronic respiratory diseases,Rate,2023,85.44948030150567
+431,Slovenia,Deaths,Chronic respiratory diseases,Rate,2023,31.77703485562909
+434,Andorra,Deaths,Chronic respiratory diseases,Rate,2023,37.83141827326882
+437,Comoros,Deaths,Chronic respiratory diseases,Rate,2023,13.20235449754326
+440,Puerto Rico,Deaths,Chronic respiratory diseases,Rate,2023,55.402384513688695
+443,Sweden,Deaths,Chronic respiratory diseases,Rate,2023,44.75582311770125
+446,Afghanistan,Deaths,Chronic respiratory diseases,Rate,2023,12.13754512835856
+449,Djibouti,Deaths,Chronic respiratory diseases,Rate,2023,9.780596280259635
+452,Canada,Deaths,Chronic respiratory diseases,Rate,2023,53.53044697918447
+455,Namibia,Deaths,Chronic respiratory diseases,Rate,2023,29.17697273091376
+458,Eritrea,Deaths,Chronic respiratory diseases,Rate,2023,16.189013786129966
+461,Saint Kitts and Nevis,Deaths,Chronic respiratory diseases,Rate,2023,16.963732800292167
+464,Tokelau,Deaths,Chronic respiratory diseases,Rate,2023,48.45205039070801
+467,Mozambique,Deaths,Chronic respiratory diseases,Rate,2023,9.784077220441208
+470,South Africa,Deaths,Chronic respiratory diseases,Rate,2023,33.28395542771196
+473,India,Deaths,Chronic respiratory diseases,Rate,2023,86.88166175784795
+476,San Marino,Deaths,Chronic respiratory diseases,Rate,2023,40.57975840453701
+479,Switzerland,Deaths,Chronic respiratory diseases,Rate,2023,32.32617860549543
+482,Bangladesh,Deaths,Chronic respiratory diseases,Rate,2023,92.21934621311298
+485,United States of America,Deaths,Chronic respiratory diseases,Rate,2023,65.86507721835603
+488,Austria,Deaths,Chronic respiratory diseases,Rate,2023,41.543998171867806
+491,Bhutan,Deaths,Chronic respiratory diseases,Rate,2023,99.0437670496172
+494,Rwanda,Deaths,Chronic respiratory diseases,Rate,2023,16.970158462351137
+497,Eswatini,Deaths,Chronic respiratory diseases,Rate,2023,29.66540795022869
+500,Nepal,Deaths,Chronic respiratory diseases,Rate,2023,92.54144597746884
+503,United Kingdom,Deaths,Chronic respiratory diseases,Rate,2023,72.76385503605577
+506,Belarus,Deaths,Chronic respiratory diseases,Rate,2023,12.761293472478442
+509,Democratic People's Republic of Korea,Deaths,Chronic respiratory diseases,Rate,2023,67.63180419888015
+512,Tuvalu,Deaths,Chronic respiratory diseases,Rate,2023,48.30322924355622
+515,Dominican Republic,Deaths,Chronic respiratory diseases,Rate,2023,19.532948748999573
+518,Seychelles,Deaths,Chronic respiratory diseases,Rate,2023,39.41870250051343
+521,Estonia,Deaths,Chronic respiratory diseases,Rate,2023,19.371791149450704
+524,Zimbabwe,Deaths,Chronic respiratory diseases,Rate,2023,22.07332346765746
+527,Ethiopia,Deaths,Chronic respiratory diseases,Rate,2023,12.372868436589082
+530,Taiwan (Province of China),Deaths,Chronic respiratory diseases,Rate,2023,46.25820342044623
+533,United States Virgin Islands,Deaths,Chronic respiratory diseases,Rate,2023,29.617767344764427
+536,Somalia,Deaths,Chronic respiratory diseases,Rate,2023,10.21774583396196
+539,Thailand,Deaths,Chronic respiratory diseases,Rate,2023,39.70607094328778
+542,Pakistan,Deaths,Chronic respiratory diseases,Rate,2023,44.880832101794965
+545,Belgium,Deaths,Chronic respiratory diseases,Rate,2023,60.62254622227693
+548,Benin,Deaths,Chronic respiratory diseases,Rate,2023,14.421155454163724
+551,Grenada,Deaths,Chronic respiratory diseases,Rate,2023,25.414787316699734
+554,Timor-Leste,Deaths,Chronic respiratory diseases,Rate,2023,36.46101004073803
+557,Cyprus,Deaths,Chronic respiratory diseases,Rate,2023,53.42412886388093
+560,Kenya,Deaths,Chronic respiratory diseases,Rate,2023,11.06789679271622
+563,Antigua and Barbuda,Deaths,Chronic respiratory diseases,Rate,2023,9.76485736139351
+566,United Republic of Tanzania,Deaths,Chronic respiratory diseases,Rate,2023,11.541885485497923
+569,Guyana,Deaths,Chronic respiratory diseases,Rate,2023,15.340808353615715
+572,Viet Nam,Deaths,Chronic respiratory diseases,Rate,2023,46.92731291358732
+575,Cambodia,Deaths,Chronic respiratory diseases,Rate,2023,41.66561965744789
+578,Madagascar,Deaths,Chronic respiratory diseases,Rate,2023,10.99470989035539
+581,Denmark,Deaths,Chronic respiratory diseases,Rate,2023,92.69669152040905
+584,Senegal,Deaths,Chronic respiratory diseases,Rate,2023,15.880302594919671
+587,South Sudan,Deaths,Chronic respiratory diseases,Rate,2023,12.554761718700318
+590,Gambia,Deaths,Chronic respiratory diseases,Rate,2023,14.876035904717538
+593,Sierra Leone,Deaths,Chronic respiratory diseases,Rate,2023,16.659692921821193
+596,Ghana,Deaths,Chronic respiratory diseases,Rate,2023,12.55439366597625
+599,Guinea,Deaths,Chronic respiratory diseases,Rate,2023,17.2711121611089
+602,Ecuador,Deaths,Chronic respiratory diseases,Rate,2023,23.63991814138377
+605,Guinea-Bissau,Deaths,Chronic respiratory diseases,Rate,2023,15.17101562996602
+608,Peru,Deaths,Chronic respiratory diseases,Rate,2023,35.86467817008517
+611,Liberia,Deaths,Chronic respiratory diseases,Rate,2023,15.287270187553078
+614,Argentina,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1043.286105040981
+617,Montenegro,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,880.3007925541598
+620,Ethiopia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,570.2070956035882
+623,Angola,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,844.9647127729244
+626,Bolivia (Plurinational State of),DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,834.7041012256418
+629,Tajikistan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,729.3177477075511
+632,Botswana,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1034.6328892748388
+635,Dominica,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1025.6910858516374
+638,Solomon Islands,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1560.7562549453048
+641,Romania,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1257.615768353755
+644,Madagascar,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,609.717688554924
+647,Uzbekistan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,498.26934283384895
+650,Gambia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,651.2507676306242
+653,Peru,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,987.6761098676476
+656,Denmark,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1982.9912758956852
+659,Israel,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,743.5708048224776
+662,Grenada,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,964.396801514923
+665,Namibia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1075.029025859841
+668,Paraguay,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,860.0495185152324
+671,Oman,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,463.893778337591
+674,Republic of Korea,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,945.4881373571934
+677,Panama,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,797.1919418320929
+680,American Samoa,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1316.551503901493
+683,Slovakia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,885.5650840491071
+686,Rwanda,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,812.9540771169162
+689,Guinea,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,739.4439435865087
+692,Colombia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,960.3445082717886
+695,Azerbaijan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,744.4832965601076
+698,Andorra,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1067.7984877098745
+701,France,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,940.3931789350888
+704,Spain,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1398.8488217233123
+707,Bulgaria,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1366.661618302644
+710,Algeria,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,760.2022425210926
+713,Japan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1293.797440405452
+716,Cambodia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1276.3227716773297
+719,Bermuda,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,935.3360258486218
+722,Cook Islands,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1067.0722324410583
+725,Chad,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,653.0698384932433
+728,Palestine,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,506.750507363039
+731,Eswatini,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1102.715781443129
+734,Kuwait,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,491.3310553845996
+737,El Salvador,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,943.8723942110752
+740,Monaco,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1588.5751828978475
+743,Greece,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1300.4887779892042
+746,Saint Lucia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1133.838704880285
+749,United Arab Emirates,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,506.285569555026
+752,Bahrain,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,648.1031894248458
+757,Luxembourg,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1027.200968860714
+760,Liberia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,727.6307075802416
+763,Estonia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,632.1999486785713
+764,Bhutan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2173.5761795394583
+767,Singapore,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,559.2072683954048
+770,Ukraine,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,821.6258685601267
+773,India,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2161.881925737365
+776,Guam,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,977.1752360516676
+779,Qatar,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,316.0816673217874
+782,Fiji,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1508.34526341402
+785,Ireland,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1330.362720520501
+788,Saudi Arabia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,569.0518902976708
+791,Indonesia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1336.1687277960625
+794,Philippines,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1078.4188303267483
+797,Sweden,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1238.813384579706
+800,Antigua and Barbuda,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,615.9859604567114
+803,Belgium,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1445.8961126646489
+806,Somalia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,557.9548987310748
+809,Germany,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1484.6055874813512
+812,Mauritania,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,653.8479454107985
+815,Kiribati,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1403.2105795789644
+818,San Marino,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1114.45208770707
+821,Tokelau,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1288.2739615455916
+824,Nepal,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2289.229960962565
+827,Suriname,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1069.1246620423296
+830,Bahamas,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,751.8319596450672
+833,Marshall Islands,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1291.188191331071
+836,Czechia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1286.645177342484
+839,Syrian Arab Republic,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,922.3073577785688
+842,Comoros,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,577.4266493902696
+845,Malaysia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,729.2278971562286
+848,Greenland,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2079.208612788747
+851,Djibouti,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,540.5832466058946
+854,Lao People's Democratic Republic,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1172.1123982172614
+857,Switzerland,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,986.9148601879848
+860,United Kingdom,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1866.9697132333092
+863,Lithuania,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,732.5385997116271
+866,Tonga,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1187.524595261505
+869,Sierra Leone,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,753.3140950873733
+872,Belize,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,972.0712167939078
+875,Kazakhstan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1843.994709956524
+878,Burkina Faso,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,631.6207873989509
+881,Honduras,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1375.339721402347
+884,Central African Republic,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1029.6895018648577
+887,United States Virgin Islands,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1022.4517526502204
+890,Australia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1400.989204794537
+893,Democratic People's Republic of Korea,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1598.0392785785923
+896,Thailand,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1083.7638059136264
+899,Micronesia (Federated States of),DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1574.5438817177944
+902,Kyrgyzstan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,718.7489636627308
+905,Nigeria,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,600.369356715568
+908,Papua New Guinea,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1518.5178851605317
+911,Zambia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,630.4545727725346
+914,Libya,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,635.8683916989106
+917,Uganda,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,620.0778991516099
+920,Niue,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1659.654298448459
+923,Iceland,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1151.378193002366
+926,Tunisia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1003.404806813961
+929,Netherlands,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1495.1573651475958
+932,Pakistan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1255.5051052555773
+935,Eritrea,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,761.6902039155425
+938,Tuvalu,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1620.903610902399
+941,Myanmar,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2427.162691253264
+944,Barbados,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,819.7355713838576
+947,Russian Federation,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,880.8604242426555
+950,Cabo Verde,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,595.0433865763506
+953,United States of America,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1953.1701179052432
+956,North Macedonia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1365.2750885101902
+959,Senegal,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,644.2803742213187
+962,Turkey,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1274.606807413945
+965,Nicaragua,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,820.4820511370342
+968,Samoa,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1441.378897241699
+971,Bosnia and Herzegovina,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1268.0790695694586
+974,Iran (Islamic Republic of),DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,755.5632043885099
+977,Guatemala,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,607.8734996937068
+980,Palau,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2294.3151413221744
+983,Viet Nam,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1205.36684475893
+986,Maldives,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,941.6268284842678
+989,Democratic Republic of the Congo,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1011.8868619490931
+992,Mongolia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,575.439118432081
+995,Mozambique,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,526.2306888569914
+998,Afghanistan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,648.8603233066211
+1001,Kenya,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,540.7171339608728
+1004,Austria,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1178.7400561444122
+1007,Italy,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1279.5865127008633
+1010,China,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1420.2827528065056
+1013,Sri Lanka,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1707.5497913950014
+1016,Yemen,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,582.666743860499
+1019,Uruguay,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1441.5457642181714
+1022,Portugal,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1567.84799211971
+1025,Belarus,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,605.3795444909456
+1028,Guyana,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,829.7811758129823
+1031,Zimbabwe,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,899.1929428203017
+1034,Armenia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,857.2805243923077
+1037,Jordan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,448.1092239760048
+1040,Seychelles,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1133.5740673542566
+1043,Croatia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1418.322280325089
+1046,Saint Kitts and Nevis,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,784.9660294224295
+1049,Vanuatu,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1415.744273104876
+1052,Mexico,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,751.6285997138777
+1055,Gabon,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,890.9836228054023
+1058,Jamaica,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,849.2972535481351
+1061,Venezuela (Bolivarian Republic of),DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,842.5413910392002
+1064,Sudan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,733.0759678633476
+1067,Latvia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,699.1547238817611
+1070,Georgia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1069.9319278877638
+1073,Congo,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,796.2960077912392
+1076,Nauru,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1168.129237071905
+1079,Egypt,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,629.9425302527378
+1082,Malta,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,965.0357548238838
+1085,Canada,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1579.1462661608225
+1088,Hungary,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1784.1574877890089
+1091,Benin,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,666.8810666876109
+1094,United Republic of Tanzania,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,614.0851155004226
+1097,Mali,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,685.1377414099288
+1100,Lebanon,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,971.5354495487946
+1103,Albania,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1285.217073668753
+1106,Cyprus,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1224.1177599384953
+1109,Saint Vincent and the Grenadines,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,737.761203871777
+1112,Republic of Moldova,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,752.2605811761592
+1115,Burundi,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,662.4223016273177
+1118,Timor-Leste,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1139.678595953726
+1121,Iraq,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,692.4773927988387
+1124,Cameroon,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,692.2436879564177
+1127,Equatorial Guinea,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,684.1693280810864
+1130,Mauritius,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1025.7714239986194
+1133,Niger,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,741.3758414128018
+1136,New Zealand,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1590.2624113280465
+1139,Bangladesh,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,2384.3589767687617
+1142,Norway,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1564.1343747782676
+1145,Northern Mariana Islands,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1209.540038094314
+1148,Trinidad and Tobago,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,925.5408076672076
+1151,Sao Tome and Principe,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1517.6366796443774
+1154,Puerto Rico,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1493.2708629384597
+1157,Haiti,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1002.8614548370414
+1160,Ecuador,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,660.9757555846246
+1163,Cuba,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1754.7254014745608
+1166,Chile,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1002.517687097858
+1169,Poland,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,896.9740677324719
+1172,Turkmenistan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,534.854560553814
+1175,Malawi,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,564.117846577115
+1178,Dominican Republic,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,794.3346944285043
+1181,South Sudan,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,669.6788936284952
+1184,Taiwan (Province of China),DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,975.5225269672752
+1187,Togo,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,702.3875028581476
+1190,Côte d'Ivoire,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,603.3021173301692
+1193,Serbia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1252.4843919837167
+1196,Brunei Darussalam,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,811.4481095216591
+1199,Brazil,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1158.2454021004655
+1202,Morocco,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,710.3034682518854
+1205,Costa Rica,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1123.8118132956083
+1208,Lesotho,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1504.761185245508
+1211,Ghana,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,582.5323689128462
+1214,Finland,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1237.6908323684922
+1217,Slovenia,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1107.6665081578285
+1220,South Africa,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,1176.9064815931622
+1223,Guinea-Bissau,DALYs (Disability-Adjusted Life Years),Chronic respiratory diseases,Rate,2023,729.0340489730975

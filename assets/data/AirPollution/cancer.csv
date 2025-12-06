@@ -1,0 +1,186 @@
+,Population,Alpha‑3 code,Cancer id,Prevalence (Prop. (W)) per 100 000
+0,Afghanistan,AFG,40,52.53
+1,Albania,ALB,40,109.75
+2,Algeria,DZA,40,96.31
+3,Angola,AGO,40,73.06
+4,Azerbaijan,AZE,40,99.93
+5,Argentina,ARG,40,161.79
+6,Australia,AUS,40,281.33
+7,Austria,AUT,40,201.37
+8,Bahamas,BHS,40,151.41
+9,Bahrain,BHR,40,89.67
+10,Bangladesh,BGD,40,61.12
+11,Armenia,ARM,40,134.07
+12,Barbados,BRB,40,161.78
+13,Belgium,BEL,40,258.42
+14,Bhutan,BTN,40,58.87
+15,Bolivia (Plurinational State of),BOL,40,91.16
+16,Bosnia Herzegovina,BIH,40,148.7
+17,Botswana,BWA,40,80.32
+18,Brazil,BRA,40,142.2
+19,Belize,BLZ,40,76.51
+20,Solomon Islands,SLB,40,83.63
+21,Brunei Darussalam,BRN,40,148.44
+22,Bulgaria,BGR,40,159.71
+23,Myanmar,MMR,40,73.38
+24,Burundi,BDI,40,55.44
+25,Belarus,BLR,40,202.41
+26,Cambodia,KHM,40,76.03
+27,Cameroon,CMR,40,67.98
+28,Canada,CAN,40,248.79
+29,Cape Verde,CPV,40,56.61
+30,Central African Republic,CAF,40,38.57
+31,Sri Lanka,LKA,40,74.09
+32,Chad,TCD,40,50.56
+33,Chile,CHL,40,137.6
+34,China,CHN,40,132.24
+35,Colombia,COL,40,120.9
+36,Comoros,COM,40,65.2
+37,"Congo, Republic of",COG,40,46.08
+38,"Congo, Democratic Republic of",COD,40,48.03
+39,Costa Rica,CRI,40,118.11
+40,Croatia,HRV,40,238.77
+41,Cuba,CUB,40,144.35
+42,Cyprus,CYP,40,235.23
+43,Czechia,CZE,40,221.41
+44,Benin,BEN,40,53.25
+45,Denmark,DNK,40,302.22
+46,Dominican Republic,DOM,40,113.85
+47,Ecuador,ECU,40,100.96
+48,El Salvador,SLV,40,76.58
+49,Equatorial Guinea,GNQ,40,67.27
+50,Ethiopia,ETH,40,49.45
+51,Eritrea,ERI,40,41.69
+52,Estonia,EST,40,227.47
+53,Fiji,FJI,40,126.24
+54,Finland,FIN,40,232.25
+55,France (metropolitan),FRA,40,260.42
+56,French Guyana,GUF,40,162.13
+57,French Polynesia,PYF,40,172.86
+58,Djibouti,DJI,40,51.81
+59,Gabon,GAB,40,76.35
+60,Georgia,GEO,40,140.89
+61,The Republic of the Gambia,GMB,40,39.94
+62,Gaza Strip and West Bank,PSE,40,97.22
+63,Germany,DEU,40,212.07
+64,Ghana,GHA,40,69.56
+65,Greece,GRC,40,203.78
+66,"France, Guadeloupe",GLP,40,176.57
+67,Guam,GUM,40,132.2
+68,Guatemala,GTM,40,71.6
+69,Guinea,GIN,40,54.69
+70,Guyana,GUY,40,88.57
+71,Haiti,HTI,40,67.4
+72,Honduras,HND,40,75.21
+73,Hungary,HUN,40,250.24
+74,Iceland,ISL,40,225.51
+75,India,IND,40,58.98
+76,Indonesia,IDN,40,84.54
+77,"Iran, Islamic Republic of",IRN,40,98.53
+78,Iraq,IRQ,40,84.65
+79,Ireland,IRL,40,268.19
+80,Israel,ISR,40,204.98
+81,Italy,ITA,40,223.33
+82,Côte d'Ivoire,CIV,40,69.64
+83,Jamaica,JAM,40,135.42
+84,Japan,JPN,40,215.75
+85,Kazakhstan,KAZ,40,110.87
+86,Jordan,JOR,40,102.36
+87,Kenya,KEN,40,84.18
+88,"Korea, Democratic People Republic of",PRK,40,92.85
+89,"Korea, Republic of",KOR,40,188.93
+90,Kuwait,KWT,40,80.9
+91,Kyrgyzstan,KGZ,40,75.19
+92,Lao People's Democratic Republic,LAO,40,88.14
+93,Lebanon,LBN,40,111.31
+94,Lesotho,LSO,40,60.31
+95,Latvia,LVA,40,222.44
+96,Liberia,LBR,40,53.21
+97,Libya,LBY,40,84.17
+98,Lithuania,LTU,40,232.95
+99,Luxembourg,LUX,40,209.14
+100,Madagascar,MDG,40,59.09
+101,Malawi,MWI,40,77.11
+102,Malaysia,MYS,40,105.95
+103,Maldives,MDV,40,77.55
+104,Mali,MLI,40,61.46
+105,Malta,MLT,40,227.55
+106,"France, Martinique",MTQ,40,179.29
+107,Mauritania,MRT,40,56.62
+108,Mauritius,MUS,40,102.98
+109,Mexico,MEX,40,97.85
+110,Mongolia,MNG,40,138.28
+111,Republic of Moldova,MDA,40,146.88
+112,Montenegro,MNE,40,169.33
+113,Morocco,MAR,40,94.87
+114,Mozambique,MOZ,40,58.28
+115,Oman,OMN,40,76.94
+116,Namibia,NAM,40,111.17
+117,Nepal,NPL,40,44.85
+118,The Netherlands,NLD,40,270.37
+119,New Caledonia,NCL,40,228.31
+120,Vanuatu,VUT,40,77.79
+121,New Zealand,NZL,40,255.56
+122,Nicaragua,NIC,40,79.48
+123,Niger,NER,40,33.52
+124,Nigeria,NGA,40,57.3
+125,Norway,NOR,40,303.88
+126,Pakistan,PAK,40,54.98
+127,Panama,PAN,40,113.74
+128,Papua New Guinea,PNG,40,93.98
+129,Paraguay,PRY,40,125.58
+130,Peru,PER,40,115.94
+131,Philippines,PHL,40,119.12
+132,Poland,POL,40,203.51
+133,Portugal,PRT,40,227.57
+134,Guinea-Bissau,GNB,40,42.15
+135,Timor-Leste,TLS,40,53.58
+136,Puerto Rico,PRI,40,177.86
+137,Qatar,QAT,40,65.04
+138,"France, La Réunion",REU,40,153.97
+139,Romania,ROU,40,202.59
+140,Russian Federation,RUS,40,182.01
+141,Rwanda,RWA,40,43.58
+142,Saint Lucia,LCA,40,124.8
+143,Sao Tome and Principe,STP,40,82.44
+144,Saudi Arabia,SAU,40,66.85
+145,Senegal,SEN,40,56.76
+146,Serbia,SRB,40,177.64
+147,Sierra Leone,SLE,40,43.39
+148,Singapore,SGP,40,188.11
+149,Slovakia,SVK,40,215.71
+150,Viet Nam,VNM,40,94.6
+151,Slovenia,SVN,40,247.28
+152,Somalia,SOM,40,37.79
+153,South Africa,ZAF,40,119.08
+154,Zimbabwe,ZWE,40,110.92
+155,Spain,ESP,40,220.29
+156,South Sudan,SSD,40,42.12
+157,Sudan,SDN,40,46.18
+158,Suriname,SUR,40,118.51
+159,Eswatini,SWZ,40,85.03
+160,Sweden,SWE,40,257.41
+161,Switzerland,CHE,40,222.76
+162,Syrian Arab Republic,SYR,40,73.09
+163,Tajikistan,TJK,40,54.51
+164,Thailand,THA,40,104.0
+165,Togo,TGO,40,52.36
+166,Trinidad and Tobago,TTO,40,138.79
+167,United Arab Emirates,ARE,40,83.23
+168,Tunisia,TUN,40,88.37
+169,Türkiye,TUR,40,158.91
+170,Turkmenistan,TKM,40,76.22
+171,Uganda,UGA,40,81.58
+172,Ukraine,UKR,40,139.81
+173,North Macedonia,MKD,40,140.28
+174,Egypt,EGY,40,104.77
+175,United Kingdom,GBR,40,246.85
+176,"Tanzania, United Republic of",TZA,40,70.89
+177,United States of America,USA,40,259.12
+178,Burkina Faso,BFA,40,58.95
+179,Uruguay,URY,40,194.28
+180,Uzbekistan,UZB,40,73.44
+181,Venezuela,VEN,40,113.3
+182,Samoa,WSM,40,174.99
+183,Yemen,YEM,40,39.73
+184,Zambia,ZMB,40,83.92
